@@ -1,0 +1,225 @@
+LANG en-US | TITLE Business Management | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Business Management | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/blog/business-management-1')
+META ('link-alternate', 'fr https://www.darbtech.net/blog/gestion-d-entreprise-1')
+META ('link-alternate', 'x-default https://www.darbtech.net/blog/gestion-d-entreprise-1')
+META ('link-canonical', ' https://www.darbtech.net/en/blog/business-management-1')
+META ('link-alternate', ' /en/blog/business-management-1/feed')
+HEADINGS:
+   ('h1', 'Business Management')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/blog/business-management-1', '')
+   ('/blog/gestion-d-entreprise-1', '')
+   ('/en/contactus', 'Contact us')
+   ('/en/blog', 'All')
+   ('/en/blog/tech-odoo-3', 'Tech & Odoo')
+   ('/en/blog/client-cases-4', 'Client Cases')
+   ('/en/blog/actualites-5', 'Actualités')
+   ('/en/blog/success-stories-6', 'Success Stories')
+   ('/en/blog/business-management-1', 'Business Management')
+   ('', '')
+   ('/en/blog/business-management-1/foolproof-method-for-identifying-and-detecting-ai-subjects-that-can-be-implemented-in-business-roi-and-concrete-use-cases-73', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/foolproof-method-for-identifying-and-detecting-ai-subjects-that-can-be-implemented-in-business-roi-and-concrete-use-cases-73', 'Foolproof method for identifying and detecting AI subjects t')
+   ('/en/blog/business-management-1/foolproof-method-for-identifying-and-detecting-ai-subjects-that-can-be-implemented-in-business-roi-and-concrete-use-cases-73', '1. Identify operational intensive processes Start by mapping')
+   ('/en/blog/business-management-1/digital-resilience-as-a-cornerstone-of-business-continuity-why-odoo-is-a-strategic-asset-for-smes-72', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/digital-resilience-as-a-cornerstone-of-business-continuity-why-odoo-is-a-strategic-asset-for-smes-72', 'Digital Resilience as a Cornerstone of Business Continuity: ')
+   ('/en/blog/business-management-1/digital-resilience-as-a-cornerstone-of-business-continuity-why-odoo-is-a-strategic-asset-for-smes-72', 'Business resilience no longer relies solely on cash reserves')
+   ('/en/blog/business-management-1/taylorization-and-digitalization-of-business-processes-advantages-disadvantages-and-examples-67', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/taylorization-and-digitalization-of-business-processes-advantages-disadvantages-and-examples-67', 'Taylorization and Digitalization of Business Processes: Adva')
+   ('/en/blog/business-management-1/taylorization-and-digitalization-of-business-processes-advantages-disadvantages-and-examples-67', 'Taylorization, a concept introduced by Frederick Winslow Tay')
+   ('/en/blog/business-management-1/navigating-digital-transformation-key-kpis-to-measure-success-58', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/navigating-digital-transformation-key-kpis-to-measure-success-58', 'Navigating Digital Transformation: Key KPIs to Measure Succe')
+   ('/en/blog/business-management-1/navigating-digital-transformation-key-kpis-to-measure-success-58', 'Introduction Digital transformation is more than just a buzz')
+   ('/en/blog/business-management-1/cybersecurity-a-strategic-imperative-for-managers-47', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/cybersecurity-a-strategic-imperative-for-managers-47', 'Cybersecurity: A Strategic Imperative for Managers')
+   ('/en/blog/business-management-1/cybersecurity-a-strategic-imperative-for-managers-47', 'Preparing a cybersecurity incident response plan allows for ')
+   ('/en/blog/business-management-1/managing-talent-in-the-era-of-big-data-48', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/managing-talent-in-the-era-of-big-data-48', 'Managing Talent in the Era of Big Data')
+   ('/en/blog/business-management-1/managing-talent-in-the-era-of-big-data-48', 'The emergence of Big Data has transformed many aspects of th')
+   ('/en/blog/business-management-1/how-to-conduct-a-digital-assessment-for-smes-55', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/how-to-conduct-a-digital-assessment-for-smes-55', 'How to Conduct a Digital Assessment for SMEs')
+   ('/en/blog/business-management-1/how-to-conduct-a-digital-assessment-for-smes-55', 'Small and Medium Enterprises (SMEs) must continually assess ')
+   ('/en/blog/business-management-1/the-impact-of-ai-in-smes-54', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/the-impact-of-ai-in-smes-54', 'The Impact of AI in SMEs')
+   ('/en/blog/business-management-1/the-impact-of-ai-in-smes-54', 'The integration of Artificial Intelligence (AI) into the ope')
+   ('/en/blog/business-management-1/inclusive-leadership-building-diverse-and-engaged-teams-45', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/inclusive-leadership-building-diverse-and-engaged-teams-45', 'Inclusive Leadership: Building Diverse and Engaged Teams')
+   ('/en/blog/business-management-1/inclusive-leadership-building-diverse-and-engaged-teams-45', 'Adopting inclusive leadership has become a priority for comp')
+   ('/en/blog/business-management-1/sustainability-in-business-beyond-profit-46', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/sustainability-in-business-beyond-profit-46', 'Sustainability in Business: Beyond Profit')
+   ('/en/blog/business-management-1/sustainability-in-business-beyond-profit-46', 'Sustainability has emerged as a major strategic challenge fo')
+   ('/en/blog/business-management-1/work-life-balance-a-continuous-challenge-for-management-49', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/work-life-balance-a-continuous-challenge-for-management-49', 'Work-Life Balance: A Continuous Challenge for Management.')
+   ('/en/blog/business-management-1/work-life-balance-a-continuous-challenge-for-management-49', 'The boundary between work and personal life is increasingly ')
+   ('/en/blog/business-management-1/change-management-in-the-era-of-digital-transformation-44', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/change-management-in-the-era-of-digital-transformation-44', 'Change Management in the Era of Digital Transformation')
+   ('/en/blog/business-management-1/change-management-in-the-era-of-digital-transformation-44', 'Digital transformation has revolutionized the business lands')
+   ('/en/blog/business-management-1', '1')
+   ('/en/blog/business-management-1/page/2', '2')
+   ('/en/blog/business-management-1/page/3', '3')
+   ('/en/blog/business-management-1/page/2', '')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+   FORM action=/en/blog/business-management-1
+     input name=search type=search req=False
+     input name=order type=hidden req=False
+     input name=tag type=hidden req=False
+     input name=date_begin type=hidden req=False
+     input name=date_end type=hidden req=False
+TEXT:
+
+ Business Management | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+[H1] Business Management
+ Blogs:
+ All
+ Tech & Odoo
+ Client Cases
+ Actualités
+ Success Stories
+ Business Management
+Blogs
+ All
+ Tech & Odoo
+ Client Cases
+ Actualités
+ Success Stories
+ Business Management
+---section ---
+ DarbTech SARL, Frédéric Phan
+ Foolproof method for identifying and detecting AI subjects that can be implemented in business: ROI and concrete use cases
+1. Identify operational intensive processes Start by mapping out repetitive, manual, error-prone, or time-consuming workflows. These are often: Customer relationship management (CRM) Accounting and in...
+ Feb 26, 2026
+ DarbTech SARL, Frédéric Phan
+ Digital Resilience as a Cornerstone of Business Continuity: Why Odoo is a Strategic Asset for SMEs
+Business resilience no longer relies solely on cash reserves or product innovation. Digital resilience — the ability to adapt operations, reorganize resources, and maintain real-time visibility—has be...
+ Jul 25, 2025
+ DarbTech SARL, Frédéric Phan
+ Taylorization and Digitalization of Business Processes: Advantages, Disadvantages and Examples
+Taylorization, a concept introduced by Frederick Winslow Taylor in the early 20th century, transformed industrial process management by introducing standardized work methods to improve efficiency and ...
+ Aug 14, 2024
+ DarbTech SARL, Frédéric Phan
+ Navigating Digital Transformation: Key KPIs to Measure Success
+Introduction Digital transformation is more than just a buzzword; it's a strategic necessity in today's technology-driven world. As organizations strive to improve efficiency, increase customer satisf...
+ May 16, 2024
+ DarbTech SARL, Frédéric Phan
+ Cybersecurity: A Strategic Imperative for Managers
+Preparing a cybersecurity incident response plan allows for quick action in the event of an attack. This plan should detail the steps to contain the attack, assess the extent of the damage, communicat...
+ Apr 4, 2024
+ DarbTech SARL, Frédéric Phan
+ Managing Talent in the Era of Big Data
+The emergence of Big Data has transformed many aspects of the business world, including talent management. Massive data offers unprecedented opportunities for companies to recruit, retain, and develop...
+ Apr 4, 2024
+ DarbTech SARL, Frédéric Phan
+ How to Conduct a Digital Assessment for SMEs
+Small and Medium Enterprises (SMEs) must continually assess their digital transformation to remain competitive. Evaluating the existing landscape involves assessing your company's current technology, ...
+ Apr 4, 2024
+ DarbTech SARL, Frédéric Phan
+ The Impact of AI in SMEs
+The integration of Artificial Intelligence (AI) into the operations of Small and Medium Enterprises (SMEs) is increasingly becoming a transformative factor. By harnessing AI, SMEs can unlock new level...
+ Apr 4, 2024
+ DarbTech SARL, Frédéric Phan
+ Inclusive Leadership: Building Diverse and Engaged Teams
+Adopting inclusive leadership has become a priority for companies looking to innovate, enhance their performance, and attract top talent. Inclusive leadership aims to create a work environment where a...
+ Mar 8, 2024
+ DarbTech SARL, Frédéric Phan
+ Sustainability in Business: Beyond Profit
+Sustainability has emerged as a major strategic challenge for businesses. Adopting sustainable practices is not just an ethical responsibility; it is also an opportunity to create long-term value for ...
+ Mar 8, 2024
+ DarbTech SARL, Frédéric Phan
+ Work-Life Balance: A Continuous Challenge for Management.
+The boundary between work and personal life is increasingly blurred, especially with the rise of remote work and digital technologies, balancing these two spheres has become a major challenge for mana...
+ Mar 8, 2024
+ DarbTech SARL, Frédéric Phan
+ Change Management in the Era of Digital Transformation
+Digital transformation has revolutionized the business landscape, compelling companies to evolve rapidly to remain competitive. However, change management in this context presents unique challenges as...
+ Mar 3, 2024
+ 1
+ 2
+ 3
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

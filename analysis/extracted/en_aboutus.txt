@@ -1,0 +1,333 @@
+LANG en-US | TITLE aboutUs | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'aboutUs | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/aboutus')
+META ('link-alternate', 'fr https://www.darbtech.net/aboutus')
+META ('link-alternate', 'x-default https://www.darbtech.net/aboutus')
+META ('link-canonical', ' https://www.darbtech.net/en/aboutus')
+HEADINGS:
+   ('h1', 'About Us.')
+   ('h2', 'DarbTech')
+   ('h2', '')
+   ('h2', 'Our Methodology')
+   ('h3', 'DevOps')
+   ('h3', 'Agile-Scrum')
+   ('h3', 'Transparency')
+   ('h3', 'Commitment')
+   ('h2', 'Our Team')
+   ('h4', 'Fred')
+   ('h4', 'Viet')
+   ('h4', 'Thomas')
+   ('h4', 'Maria')
+   ('h4', 'Frédéric')
+   ('h4', 'Marwa')
+   ('h4', 'Anis')
+   ('h4', 'Fatima Zahra')
+   ('h4', 'Hosni')
+   ('h4', 'Abdellatif')
+   ('h4', 'Zoubida')
+   ('h4', 'Khadija')
+   ('h4', 'Hatim')
+   ('h4', 'Khadija')
+   ('h4', 'Mohammed')
+   ('h4', 'Salma')
+   ('h4', 'Ouail')
+   ('h4', 'Kamal')
+   ('h4', 'El Mehdi')
+   ('h4', 'Douae')
+   ('h4', 'Salma')
+   ('h2', 'Our Partners')
+   ('h3', '')
+   ('h3', 'Odoo')
+   ('h3', 'Ringover')
+   ('h3', 'Leexi.ai')
+   ('h4', 'Join us!')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/aboutus', '')
+   ('/aboutus', '')
+   ('/en/contactus', 'Contact us')
+   ('#', '')
+   ('/en/fred', 'Read the bio')
+   ('/en/viet', 'Read the bio')
+   ('/en/thomas', 'Read the bio')
+   ('/en/maria', 'Read the bio')
+   ('/en/frederic', 'Read the bio')
+   ('/en/marwa', 'Read the bio')
+   ('/en/anis', 'Read the bio')
+   ('/en/fatima-zahra', 'Read the bio')
+   ('/en/hosni', 'Read the bio')
+   ('/en/abdellatif', 'Read the bio')
+   ('/en/zoubida', 'Read the bio')
+   ('/en/khadija-a', 'Read the bio')
+   ('/en/hatim', 'Read the bio')
+   ('/en/khadija-r', 'Read the bio')
+   ('/en/mohammed', 'Read the bio')
+   ('/en/salma', 'Read the bio')
+   ('/en/ouail', 'Read the bio')
+   ('/en/kamal', 'Read the bio')
+   ('/en/elmehdi', 'Read the bio')
+   ('/en/douae', 'Read the bio')
+   ('/en/sally', 'Read the bio')
+   ('http://www.odoo.com/', '')
+   ('https://www.odoo.com/', 'Odoo')
+   ('https://www.ringover.fr/', '')
+   ('https://www.ringover.com/', 'Ringover')
+   ('http://www.liteconsulting.fr', '')
+   ('http://Leexi.ai', 'Leexi.ai')
+   ('/en/contactus', 'here')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/7223-3eacca57/25834377_7124027.jpg', '')
+   ('/web/image/7220-0d6cc406/33756690_8104960.jpg', '')
+   ('/web/image/15563-9d6168de/3147290_972.jpg', '')
+   ('/web/image/7364-11d45b1c/engagement.png', '')
+   ('/web/image/28939-f8fa0209/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_59_19.svg', '')
+   ('/web/image/28938-7d9fe22b/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_01_03.svg', '')
+   ('/web/image/28940-8d3a7175/ChatGPT%20Image%2015%20mai%202026%2C%2017_07_39.webp', '')
+   ('/web/image/28941-bda0213a/ChatGPT%20Image%2018%20mai%202026%2C%2015_47_06.webp', '')
+   ('/web/image/28942-e0da9b9d/ChatGPT%20Image%2018%20mai%202026%2C%2015_45_28.webp', '')
+   ('/web/image/28951-3ab4e840/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_53_30.svg', '')
+   ('/web/image/28943-2a8f1a40/129e1711-ec6d-415e-84e0-1ef3de5b8c8e.webp', '')
+   ('/web/image/28952-b5330ae3/ChatGPT%20Image%2015%20mai%202026%2C%2017_08_52.webp', '')
+   ('/web/image/28964-04b07585/ChatGPT%20Image%2015%20mai%202026%2C%2017_12_08.webp', '')
+   ('/web/image/28953-d9091500/ChatGPT%2520Image%252015%2520mai%25202026%252C%252015_23_37.svg', '')
+   ('/web/image/28945-9bfa0565/ChatGPT%20Image%2015%20mai%202026%2C%2017_04_06.webp', '')
+   ('/web/image/28961-abf95afc/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_55_59.svg', '')
+   ('/web/image/28959-3e4bcebc/ChatGPT%2520Image%252018%2520mai%25202026%252C%252016_47_28.svg', '')
+   ('/web/image/28954-93df6049/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_50_47.svg', '')
+   ('/web/image/28955-ea1cac58/ChatGPT%2520Image%252015%2520mai%25202026%252C%252015_21_28.svg', '')
+   ('/web/image/28966-f7df65e5/ChatGPT%20Image%2015%20mai%202026%2C%2017_02_30.webp', '')
+   ('/web/image/28965-ff05cd8f/ChatGPT%20Image%2015%20mai%202026%2C%2017_14_33.webp', '')
+   ('/web/image/28944-56d8ca3c/ChatGPT%20Image%2015%20mai%202026%2C%2017_06_28.webp', '')
+   ('/web/image/33715-5cb0abba/WhatsApp%20Image%202026-09-21%20at%2012.03.52.webp', '')
+   ('/web/image/33719-531c26d0/1789986184508%281%29%20%28Phone%29.webp', '')
+   ('/web/image/33983-a917a51b/file_000000008b1c8210a5c5b86006a017bd.webp', '')
+   ('/web/image/15542-90e1d5f7/Odoo_logo.svg.webp', '')
+   ('/web/image/17616-c3c2f4c5/logo%20ringover.png', '')
+   ('/web/image/26261-56437d8a/leexi.webp', '')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ aboutUs | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+---section s_title pb40 pt56 o_colored_level---
+[H1] 
+ About Us.
+---section s_text_image o_colored_level pt32 pb0---
+[H2] DarbTech
+DarbTech is a company based in Paris and Rabat. We work with small and medium-sized businesses (SMB) in French and English-speaking regions worldwide. We assist you in various areas, such as:
+-Improving the productivity of your business through digitization solutions with CRM and ERP.
+-Providing dedicated teams for specific application development.
+DarbTech was born from the founders' desire to provide value-added services to stakeholders while facilitating exchanges in this vast village our world has become.
+[H2] 
+---section s_title o_colored_level pt32 pb32 o_cc o_cc4---
+[H2] 
+ Our Methodology
+---section s_text_cover o_colored_level pb48---
+[H3] DevOps
+Our DevOps methodology ensures the industrialization of our processes. It ensures operational excellence, promotes innovation, and guarantees efficiency at the core of each project while adhering to continuous improvement.
+[H3] Agile-Scrum
+Our Agile methodology is one of the pillars of our success. It ensures operational excellence, promotes innovation, and guarantees efficiency at the core of each project. Short digital development cycles enable alignment with the involved client's needs, resulting in satisfaction and tangible benefits for their business.
+---section s_text_cover o_colored_level pb128---
+[H3] Transparency
+We provide our employees and clients with project tracking and development tools that enable clear visibility and readability of the actions taken and the associated costs. At any time, we can allocate resources exclusively to a project or work collaboratively through our partnerships and networks of experts.
+[H3] Commitment
+We acknowledge that every project may encounter challenges and uncertainties. We strive to de-risk every project and have a strong commitment to ensuring the success of our services. Like a bridge of honor, we collaborate for our clients' satisfaction, regardless of the path taken. We are your companion on the journey.
+---section s_title o_colored_level pb32 o_cc o_cc4 pt24---
+[H2] 
+ Our Team
+---section s_company_team_basic o_cc o_cc1 o_colored_level s_custom_sni---
+[H4] Fred
+Managing Partner Consulting & Production
+Certified Odoo, RingOver, LSS, SAFe, CSPO
+ Read the bio
+[H4] Viet 
+CEO & Founder
+ Read the bio
+[H4] Thomas
+Project Director and Digital Transformation Consultant
+Odoo Certified 
+ Read the bio
+[H4] Maria
+Digital Management Consultant
+ Read the bio
+[H4] Frédéric
+Performance Consultant
+ Read the bio
+[H4] Marwa
+Administrative and Commercial Officer
+ Read the bio
+[H4] Anis
+Quality Assurance Engineer
+Certified ISTQB, Odoo
+ Read the bio
+[H4] Fatima Zahra
+Advanced ERP Engineer
+Odoo Certified
+ Read the bio
+[H4] Hosni
+Senior Odoo Developer
+Odoo Certified 
+ Read the bio
+[H4] Abdellatif
+Lead Developer and Consultant
+Odoo Certified
+ Read the bio
+[H4] Zoubida
+Technology Solutions Manager
+Odoo Certified
+ Read the bio
+[H4] Khadija
+Junior ERP Engineer
+Odoo Certified
+ Read the bio
+[H4] Hatim
+ Junior ERP Engineer
+Odoo Certified 
+ Read the bio
+[H4] Khadija
+Advanced ERP Engineer
+Odoo Certified
+ Read the bio
+[H4] Mohammed
+Advanced ERP Engineer
+Odoo Certified
+ Read the bio
+[H4] Salma
+Advanced ERP Engineer
+Odoo Certified Read the bio
+[H4] Ouail
+ Junior ERP Engineer 
+ Read the bio
+[H4] Kamal
+Project Director and Digital Transformation Consultant
+Odoo Certified
+ Read the bio
+[H4] El Mehdi
+ Junior ERP Engineer Read the bio 
+[H4] Douae
+Junior ERP Engineer Read the bio 
+[H4] Salma
+Junior ERP Engineer Read the bio 
+---section s_company_team o_colored_level pt0 pb0---
+---section s_company_team o_colored_level pt0 pb0---
+---section s_title o_colored_level pb32 o_cc o_cc4 pt24---
+[H2] 
+ Our Partners 
+---section s_three_columns o_colored_level pt16 pb32---
+[H3] 
+[H3] Odoo
+ DarbTech, Certified Odoo Partner Since 2015!
+For nearly a decade, DarbTech has been proud to be a Certified Odoo Partner, supporting clients across various versions, from V8 to the latest Enterprise and Community Editions. 
+ We have been both witnesses and active contributors to the significant evolution of this essential ERP, designed to meet the growing needs of SMBs, SMEs, and large enterprise groups.
+
+Our added value?
+Proven expertise gained from years of supporting diverse projects.
+The ability to advise and implement tailored solutions, regardless of the industry.
+A focus on efficiency, innovation, and customer satisfaction.
+ At DarbTech, every project is a new opportunity to showcase our expertise and contribute to the sustainable growth of our partners.
+[H3] Ringover
+DarbTech, Official Ringover Partner for Outstanding Communication!
+At DarbTech, we are proud of our strategic partnership with Ringover, a leader in cloud telephony solutions for businesses. Together, we strive to transform and optimize customer experience as well as operational efficiency for companies.
+Our solutions include:
+CTI (Computer Telephony Integration): Seamless integration with CRM systems for optimal customer interaction management.
+IVR (Interactive Voice Response): Improved call reception and direction for incoming inquiries.
+Advanced Analytics: Monitoring and analyzing telephony performance for better decision-making.
+Integrated Collaborative Tools: Unified communication to enhance team productivity.
+Through this collaboration, DarbTech delivers innovative solutions tailored to the specific needs of each organization, ensuring an optimal user experience and enhanced performance.
+[H3] Leexi.ai
+DarbTech and Leexi: A Partnership to Boost Your Productivity and Collaboration
+By integrating conversational AI into the heart of your work environment, you free up valuable time while ensuring the quality of your follow-ups. Leexi doesn't just transcribe; it structures the intelligence of your meetings.
+Increased Productivity: Say goodbye to manual note-taking. AI generates concise summaries, identifies action items, and instantly extracts key points.
+Seamless Collaboration: Thanks to native integration with Odoo, critical information flows directly into your CRM, ensuring the entire team is aligned without any administrative effort.
+ Full Compatibility: Whether your meetings take place on Google Meet, Microsoft Teams, Zoom, or even in person, Leexi accurately captures every exchange.
+Security and Compliance: Work with complete peace of mind. The solution is fully GDPR compliant and ISO 27001 certified, guaranteeing maximum protection of your sensitive data. 
+---section s_company_team o_colored_level pb0 pt0---
+---section s_company_team o_colored_level pt0 pb0---
+---section s_text_block o_colored_level o_cc o_cc2 pb8 pt56---
+[H4] Join us!
+Contact us here and make the difference :)
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

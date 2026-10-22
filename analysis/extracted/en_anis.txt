@@ -1,0 +1,119 @@
+LANG en-US | TITLE Anis | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Anis | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/anis')
+META ('link-alternate', 'fr https://www.darbtech.net/anis')
+META ('link-alternate', 'x-default https://www.darbtech.net/anis')
+META ('link-canonical', ' https://www.darbtech.net/en/anis')
+HEADINGS:
+   ('h4', '')
+   ('h3', 'Anis')
+   ('h3', 'Quality Assurance EngineerCertified ISTQB, Odoo')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/anis', '')
+   ('/anis', '')
+   ('/en/contactus', 'Contact us')
+   ('https://www.linkedin.com/in/anis-zouari-424730219/', '')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/28977-5af5ba4f/129e1711-ec6d-415e-84e0-1ef3de5b8c8e.svg', '')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ Anis | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+---section s_company_team_basic o_cc o_cc1 o_colored_level s_custom_sni---
+[H4] 
+[H3] Anis
+[H3] Quality Assurance Engineer
+Certified ISTQB, Odoo
+Follow us on: 
+---section s_text_block o_colored_level pb32 s_custom_snippet pt0---
+ISTQB certified, Anis joins DarbTech as a QA Engineer with his extensive experience in software quality assurance. Holding a master's degree in computer science and e-commerce, he is passionate about quality, reliability, and the continuous improvement of applications.
+He contributes to the functional and technical validation of solutions by implementing effective and structured testing strategies. He works closely with development teams to ensure the compliance of deliverables. His attention to detail allows him to quickly identify anomalies and areas for improvement. His analytical mindset helps him design relevant and comprehensive test scenarios. His constant commitment to quality ensures high-performing and reliable solutions.
+He actively participates in the optimization of testing and validation processes. He ensures the satisfaction of end users by maintaining the stability of applications.
+Anis embodies a rigorous QA engineer committed to the excellence of DarbTech products.
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

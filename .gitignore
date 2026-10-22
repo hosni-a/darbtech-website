@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Regenerable scrape output (re-run data/scripts/fetch.py + extract.py)
+analysis/raw/
+data/raw/
+data/assets/
+
+# QA screenshots (large, regenerable)
+qa/screenshots/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

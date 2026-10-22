@@ -1,0 +1,180 @@
+LANG fr-FR | TITLE Mentions légales - CGU DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Mentions légales - CGU DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=af6c293')
+META ('link-alternate', 'en https://www.darbtech.net/en/cgu')
+META ('link-alternate', 'fr https://www.darbtech.net/cgu')
+META ('link-alternate', 'x-default https://www.darbtech.net/cgu')
+META ('link-canonical', ' https://www.darbtech.net/cgu')
+HEADINGS:
+   ('h1', 'Mentions légales - CGU')
+LINKS:
+   ('#wrap', 'Se rendre au contenu')
+   ('/', '')
+   ('/', 'Accueil')
+   ('#', 'Services')
+   ('/devops', 'DevOps')
+   ('/integrateurdelogiciel', 'Intégrateur de Logiciel')
+   ('/blog/cas-client-4', 'Cas Clients')
+   ('/blog', 'Blog')
+   ('/aboutus', 'Notre Equipe')
+   ('/jobs', 'Postes')
+   ('/shop/cart', '0')
+   ('/en/cgu', '')
+   ('/cgu', '')
+   ('/contactus', 'Contactez-nous')
+   ('https://darbtech.net', 'darbtech.net')
+   ('https://Darbtech.net', 'Darbtech.net')
+   ('https://bonjour@darbtech.net', 'bonjour@darbtech.net')
+   ('/services', 'Nos services')
+   ('/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bA\u200b \u200bp\u200bro\u200bp\u200bos\u200b \u200bde \u200bn\u200bo\u200bus')
+   ('/blog/cas-clients-4', 'Cas Clients')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Nous Choisir\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Choisir Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ Mentions légales - CGU DarbTech
+ Se rendre au contenu
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+ 0
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+---section s_title pt56 o_colored_level pb0---
+[H1] Mentions légales - CGU
+À LIRE ATTENTIVEMENT AVANT L'UTILISATION DU SITE  darbtech.net
+
+---section s_text_block pt40 pb40 o_colored_level---
+Objet des CGU 
+Les Conditions Générales d’Utilisation, (ci-après les « CGU ») ont pour objet de définir les modalités dans lesquelles la société DarbTech Labs SAS (ci-après « Nous »), SAS au capital de 10 000 euros, 850 857 046 RCS PARIS (N° de TVA intracommunautaire : FR 48 850 857 046), ayant son siège social au 36 rue Boussingault 75013 Paris, met à votre disposition le site web accessible à l’adresse darbtech.net (ci-après le « Site »). 
+Article 1 : Description et finalité du Site 
+Darbtech.net est un site vitrine de DarbTech Labs présentant les produits et services du groupe. 
+Vous pourrez, si vous le souhaitez, recevoir nos Newsletters afin de vous informer sur les actualités et services proposés. 
+L’ensemble des fonctionnalités du Site, dont les principales sont décrites au présent article et qui pourront évoluer dans le temps, est désigné aux présentes comme « le Service ». 
+Article 2 : Accès au site et Acceptation des conditions générales d’utilisation 
+Par l’accès au Site et son utilisation vous reconnaissez remplir les conditions pour bénéficier de la qualité d’Utilisateur telle que définie à l’article 3. Vous concluez un accord contractuel avec Nous, ci-après désigné comme « l’Accord », régi par les présentes CGU. 
+Vous vous engagez à utiliser le Site et le Service loyalement et dans le respect, en toutes circonstances, des dispositions légales et réglementaires en vigueur. 
+Le fait de ne pas nous prévaloir d'un manquement à l'une quelconque des obligations visées dans les présentes CGU ne saurait être interprété, pour l'avenir, comme une renonciation à l'obligation en cause ou comme un avenant à l’Accord, et ne pourra nous empêcher de nous en prévaloir à l'avenir. 
+Nous pourrons modifier les CGU à tout moment et sans préavis. Vous êtes donc invité à consulter régulièrement leur dernière version mise à jour, disponible à tous et accessible en permanence sur la page d’accueil du Site, en cliquant sur le lien hypertexte : « Conditions d’utilisation » en pied de page. 
+Article 3 : Conditions d’accès au Service 
+3.1. – Qualité d’Utilisateur 
+Pour devenir Utilisateur, vous devez avoir accepté les présentes CGU sans aucune réserve. 
+Article 4 : Responsabilité de l’utilisateur 
+Vous êtes seul responsable de l’usage que vous faites du Service et du Site et de l’usage que vous faites des informations et données qu’il contient. 
+Tous matériels et logiciels nécessaires à l’accès au Site et à l’utilisation du Service restent exclusivement à votre charge. Il vous appartient de prendre toutes mesures appropriées de façon à protéger vos propres données et/ou logiciels de la contamination par d’éventuels virus. 
+Article 5 : Notre Responsabilité 
+Nous ne sommes pas responsables du contenu des sites Internet tiers vers lesquels renvoient des liens hypertextes présents sur le Site ou accessibles via le Service. 
+Du fait de la nature particulière du réseau Internet, l’accès au Site peut être interrompu ou restreint à tout moment par une cause indépendante de notre volonté. Dans ce cas, notre responsabilité ne pourra être recherchée. 
+Notre responsabilité ne saurait non plus être engagée en cas d’interruption d’accès au Site du fait d’opérations de maintenance, de mises à jour ou d'améliorations techniques, ou pour en faire évoluer la présentation, dès lors que ces interruptions seront signalées et qu’elles n’excéderont pas cinq (5) jours ouvrés. 
+Vous êtes par ailleurs informé que les services d’e-commerce accessibles via le Site sont fournis par des partenaires tiers et non par nous. En effet, ces services ne sont accessibles via le Site ou le Service que par l’intermédiaire de liens hypertextes conduisant directement ou indirectement aux sites de ces prestataires. Par suite, ces services sont régis exclusivement par les conditions générales et/ou particulières de vente et/ou d’utilisation des sites en cause, et la seule relation contractuelle susceptible de se nouer dans le cadre de l’utilisation de ces sites vous lie au(x) prestataire(s) exploitant(s) desdits sites. En conséquence, nous ne saurions en aucun cas être responsables, à quelque titre que ce soit, de l’accès à ces sites et/ou de leur utilisation par vous, ou des conséquences de ces actes, notamment au titre de l’acquisition de biens ou de services via ces sites. 
+Dans toute la mesure permise par la loi applicable et dans la mesure où nous serions jugés responsables d’un dommage non visé dans le présent article ou les CGU, notre responsabilité sera limitée aux dommages directs, certains, réels et établis. 
+Article 6 : Propriété Intellectuelle 
+Nous sommes, conformément aux règles afférentes à la propriété intellectuelle, propriétaire du Site, tant dans ses composantes techniques que graphiques, textuelles, ergonomiques, de navigation ou autres. Le Service est assuré au moyen de logiciels, d’algorithmes et de bases de données conçus et/ou développés et/ou utilisés par nous, qui nous appartiennent ou sur lesquels nous disposons de droits. 
+Le contenu mis en ligne par nos soins nous appartient également. L'utilisation du Site et du Service ne donne aucun droit aux Utilisateurs sur l'un quelconque des éléments cités au présent article. 
+En acceptant les CGU, vous reconnaissez nos droits de propriété intellectuelle et vous vous engagez à les respecter. 
+Licence d'utilisation du Site : 
+Nous vous accordons une licence non exclusive, personnelle et non transférable vous autorisant à utiliser le Site et le Service, ainsi que les données qu'ils contiennent, pour votre usage strictement personnel, conformément aux CGU et à la seule fin stipulée aux présentes (ci-après désignée « la Licence »). 
+Vous reconnaissez en conséquence que toute autre exploitation du Site ou du Service est exclue du domaine de la présente Licence et ne pourra être effectuée qu'après avoir obtenu notre autorisation écrite et préalable. 
+Article 7 : Politique de Confidentialité 
+7.1 – Collecte des données à caractère personnel 
+Toutes les données à caractère personnel collectées dans le cadre de l’utilisation du Site et du Service sont recueillies légalement et loyalement. 
+Les informations recueillies directement auprès de vous lors de la complétion de formulaires du Site sont enregistrées dans la base de données gérée par DarbTech [1] et pourront faire l’objet d’un traitement automatisé ayant pour finalité de vous adresser des actualités et des offres, de vous proposer du contenu adapté à votre profil et à vos goûts, et de gérer sa relation avec vous. Les informations marquées d’un astérisque sont obligatoires. A défaut, DarbTech ne sera pas en mesure de répondre à votre demande. Ces informations sont à destination exclusive de DarbTech et de ses filiales et seront conservées pendant trois (3) ans à compter de votre dernière visite. 
+Conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée et au Règlement (UE) 2016/679 relatif à la protection des données à caractère personnel, vous disposez des droits suivants sur vos données : droit d’accès, droit de rectification, droit à l’effacement (droit à l’oubli), droit d’opposition, droit à la limitation du traitement, droit à la portabilité. Vous pouvez également définir des directives relatives à la conservation, à l'effacement et à la communication de vos données à caractère personnel après votre décès. En cas de manquement aux dispositions ci-dessus, vous avez le droit d’introduire une réclamation auprès de la CNIL. 
+Pour exercer vos droits, merci d’adresser votre courrier RAR à l’adresse suivante DarbTech Labs SAS, 122 Av. Daumesnil, 75012 PARIS ou à l’adresse électronique suivante dpo@darbtech.net
+Merci de joindre la copie d’une pièce d’identité. 
+Conformément à l’article 6-II de la loi du 21 juin 2004 pour la Confiance dans l’économie numérique, les données de nature à permettre votre identification peuvent être communiquées à l’autorité judiciaire lorsqu’elle le requiert. 
+Nous prenons les dispositions nécessaires pour que vos données à caractère personnel recueillies via le Site ne soient ni perdues, ni détournées, ni consultées, ni modifiées, ni divulguées par des tiers non autorisés. 
+7.2 Gestion des Cookies 
+Le Site est susceptible de comporter des cookies. Les cookies sont utilisés pour faciliter votre navigation et personnaliser votre accès au Service. 
+En particulier : 
+• S’agissant de cookies et de traceurs strictement nécessaires à la fourniture du service expressément demandé par l’utilisateur (cookies  « identifiants de session » , pour la durée d’une session, ou les cookies persistants limités à quelques heures ; les cookies d’authentification ; les cookies de session créés par un lecteur multimédia ou les cookies persistants de personnalisation de l’interface utilisateur), ils sont sans dommage pour votre terminal, anonymes et ne sont en aucun cas utilisés pour collecter des données à caractère personnel, mais uniquement à des fins de gestion des connexions. 
+• S’agissant des cookies nécessitant une information préalable et une demande de consentement ; ils peuvent être : 
+Des cookies de performance du site (qui nous permettent d'optimiser notre site internet et de détecter les éventuels problèmes techniques) ; ils nous permettent aussi de recueillir des informations sur la façon dont vous utilisez le site et d’en faire des statistiques, 
+Des cookies de personnalisation nous permettant de mémoriser vos choix et vos préférences afin d’améliorer votre expérience utilisateur sur notre site, 
+Des cookies liés aux réseaux sociaux générés par les boutons de partage sur les réseaux sociaux, 
+Ils ne sont mis en œuvre qu’après avoir reçu votre libre consentement (clic sur le bouton présent dans le bandeau lorsque nécessaire). 
+Article 8 : Durée et résiliation - Désinscription 
+8.1. – Durée de l’Accord 
+L’Accord est conclu pour une durée indéterminée à compter de votre acceptation des CGU, manifestée par la validation de votre inscription. 
+8.2. – Résiliation de l’Accord 
+Nous pourrons résilier le présent Accord de plein droit et sans mise en demeure préalable, en cas de violation grave ou répétée de vos obligations relatives au respect de la législation en vigueur, indépendamment de tous dommages et intérêts auxquels nous pourrions prétendre. 
+Dans l’hypothèse où vous fourniriez des données fausses, inexactes, périmées ou incomplètes, nous serons en droit de suspendre ou de résilier l’Accord. 
+En cas de non respect des CGU, si, à l’issue d’un délai de huit (8) jours calendaires à compter de la notification par nos soins du manquement constaté, vous n’avez pas mis fin à ce manquement ou que ce dernier n’a pas été réparé, nous pourrons résilier l’Accord immédiatement et de plein droit, indépendamment de tous dommages et intérêts auxquels nous pourrions prétendre. 
+8.3. – Désinscription du Service 
+Vous pouvez résilier à tout moment votre inscription au Service, en contactant notre équipe à l’adresse électronique suivante : bonjour@darbtech.net
+Article 9 : Cession de l’accord 
+Nous pourrons céder ou transférer autrement le bénéfice de tout ou partie de l’Accord à un tiers, situé en France ou à l’intérieur de l’Union Européenne, notamment en cas de transfert audit tiers de l’exploitation du Site et du Service. Vous déclarez être informé de cette possibilité et l’accepter d’ores et déjà sans limitation ni réserve, quelle que soit l’identité dudit tiers. 
+Article 10 : Interprétation des présentes – Stipulations Générales 
+Les CGU expriment l’intégralité de l’accord intervenu entre les parties relativement à leur objet. 
+Dans l’hypothèse où l’une quelconque des stipulations de l’Accord serait déclarée illégale, nulle ou inapplicable par une juridiction ou une autorité de quelque ordre qu'elle soit, la validité des autres stipulations de l’Accord ne saurait en être affectée. 
+Les titres attribués aux articles, paragraphes, alinéas et annexes de l’Accord n’y figurent que pour la commodité de sa lecture et ne pourront en aucun cas être invoqués en vue de son interprétation. Sauf indication contraire, toutes les références faites à l’Accord à des articles, paragraphes, alinéas et annexes constituent des références aux articles, paragraphes, alinéas et annexes de l’Accord. 
+Article 11 : Force majeure 
+Aucune des Parties ne pourra être tenue pour responsable vis-à-vis de l’autre Partie d'un retard ou manquement quelconque dans l’exécution totale ou partielle de ses obligations, si un tel manquement résulte de tout événement de force majeure présentant les caractéristiques définies par la jurisprudence de la Cour de cassation. 
+Article 12 : Droit applicable et juridiction compétente 
+La conclusion, la validité, l’interprétation, l’exécution, la résiliation de l’Accord et leurs suites éventuelles sont régies par le droit français. 
+Cconformément à la Loi, tout conflit relatif à la formation, la validité, l’interprétation, l’application, la résiliation de l’accord et leurs conséquences éventuelles, ou en lien avec l’utilisation du site, sera soumis à la compétence des tribunaux de paris, y compris en cas d’appel en garantie ou de multiples défendeurs, ainsi que pour toute procédure, qu’elle soit au fond, en référé ou sur requête.
+---section s_text_block pb0 pt48---
+Explorateur
+Accueil
+Nos services
+A propos de nous
+Blog
+Interventions
+Cas Clients
+Pourquoi Nous Choisir
+Pourquoi Choisir Odoo
+CGU
+Nous suivre
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tél. : +33 1 88 33 41 64
+Darbtech 
+Rabat-Maroc 
+Résidence Oum Kalthoum, Boulevard Hassan II - RABAT AGDAL
+Tél. : +212 770 86 2295
+ Copyright © DarbTech Labs
+ Généré par 
+ - 
+ Le #1 Open Source eCommerce
+

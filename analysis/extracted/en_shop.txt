@@ -1,0 +1,142 @@
+LANG en-US | TITLE Products | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Products | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/shop')
+META ('link-alternate', 'fr https://www.darbtech.net/shop')
+META ('link-alternate', 'x-default https://www.darbtech.net/shop')
+META ('link-canonical', ' https://www.darbtech.net/en/shop')
+HEADINGS:
+   ('h1', 'All products')
+   ('h3', 'No product defined')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/shop', '')
+   ('/shop', '')
+   ('/en/contactus', 'Contact us')
+   ('#', '')
+   ('#', 'Sort By Sort By: Featured')
+   ('/en/shop?order=website_sequence+asc', 'Featured')
+   ('/en/shop?order=publish_date+desc', 'Newest Arrivals')
+   ('/en/shop?order=name+asc', 'Name (A-Z)')
+   ('/en/shop?order=list_price+asc', 'Price - Low to High')
+   ('/en/shop?order=list_price+desc', 'Price - High to Low')
+   ('/en/shop', 'Clear Filters')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+   FORM action=/en/shop
+     input name=search type=search req=False
+     input name=order type=hidden req=False
+   FORM action=/en/shop
+     input name=search type=search req=False
+     input name=order type=hidden req=False
+   FORM action=/en/shop
+     input name=None type=range req=False
+   FORM action=None
+     input name=search type=search req=False
+     input name=order type=hidden req=False
+TEXT:
+
+ Products | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+---section s_text_block oe_unmovable oe_unremovable---
+ Price Range
+---section s_text_block oe_unmovable oe_unremovable---
+[H1] 
+ All products
+ Sort By
+ Sort By:
+ Featured
+ Featured
+ Newest Arrivals
+ Name (A-Z)
+ Price - Low to High
+ Price - High to Low
+ Filters
+[H3] 
+ No product defined
+ Price Range
+ Clear Filters
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

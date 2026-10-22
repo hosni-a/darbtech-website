@@ -1,0 +1,376 @@
+LANG en-US | TITLE Jobs | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Jobs | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/jobs')
+META ('link-alternate', 'fr https://www.darbtech.net/jobs')
+META ('link-alternate', 'x-default https://www.darbtech.net/jobs')
+META ('link-canonical', ' https://www.darbtech.net/en/jobs')
+HEADINGS:
+   ('h1', 'Our Job Offers')
+   ('h3', 'Odoo Developer Junior - 1+ year of experience')
+   ('h3', 'Odoo developer Advanced - 3+ years of experience')
+   ('h3', 'Odoo Internship')
+   ('h3', 'Odoo Technical functional Consultant')
+   ('h3', 'Odoo Agile Project Manager')
+   ('h3', 'QA/Tester')
+   ('h3', 'Administrative Assistant')
+   ('h3', 'Vos missions')
+   ('h3', 'Pourquoi rejoindre DarbTech ?')
+   ('h3', 'Comment postuler ?')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/jobs', '')
+   ('/jobs', '')
+   ('/en/contactus', 'Contact us')
+   ('/en/jobs/odoo-developer-junior-1-year-of-experience-4', 'Odoo Developer Junior - 1+ year of experience 1 open positio')
+   ('/en/jobs/odoo-developer-advanced-3-years-of-experience-5', 'Odoo developer Advanced - 3+ years of experience 1 open posi')
+   ('/en/jobs/odoo-internship-7', 'Odoo Internship 1 open position DarbTech Labs SAS is activel')
+   ('/en/jobs/odoo-technical-functional-consultant-11', 'Odoo Technical functional Consultant 1 open position DarbTec')
+   ('/en/jobs/odoo-agile-project-manager-8', 'Odoo Agile Project Manager 1 open position DarbTech is looki')
+   ('/en/jobs/qa-tester-6', 'QA/Tester 1 open position DarbTech Labs SAS is looking for t')
+   ('mailto:adminops@darbtech.net', 'adminops@darbtech.net')
+   ('mailto:rh@darbtech.net', 'rh@darbtech.net')
+   ('tel://+33 1 88 33 41 64', '+33 1 88 33 41 64')
+   ('/en/website/social/linkedin', '')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/10546-38ee87e4/AsilahDT2023.webp', '')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+   FORM action=None
+     input name=search type=search req=False
+     input name=order type=hidden req=False
+TEXT:
+
+ Jobs | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+---section o_wevent_index_topbar_filters d-flex d-print-none align-item---
+[H1] Our Job Offers
+[H3] Odoo Developer Junior - 1+ year of experience
+ 1
+ open position
+ DarbTech Labs SAS is actively looking for passionate and dynamic Odoo junior developers to join our team. As a junior Odoo developer, you will have the opportunity to work on exciting Agile projects of digitalization, automation, APIsation, AI integration and Odoo configuration, as well as Python development.
+Responsibilities:
+Contribute to the development and customization of Odoo modules according to specific customer needs
+Participate in the design and implementation of innovative solutions to automate business processes
+Collaborate with the team to integrate advanced features using Odoo APIs
+Explore and suggest improvements to optimize the performance and efficiency of Odoo systems
+Assist in configuring and customizing Odoo applications to meet customer requirements
+Qualifications:
+Degree in Computer Engineering or IT with Odoo training and certification on the job
+0 to 1 year of participation in Odoo projects
+Good Python development skills
+Ability to work independently and proactively problem solve
+Ability to work in a dynamic and collaborative environment
+Good communication skills in French and English
+Immediate availability
+Ideally located 1.30 hours from Rabat with the possibility of working in flex office (2 days on site)
+Benefits:
+Dynamic and stimulating work environment within a passionate team
+Opportunity to contribute to innovative projects and learn from experts in the field
+Possibility of professional development within the company
+Flexibility of working in flex office to promote work-life balance
+How to Apply: 
+ If you are motivated by technical and functional challenges and want to participate in exciting projects in the field of ERP and software development, send your CV and a cover letter to odoojunior@darbtech-labs.odoo.com. 
+You can also contact our current employees to learn more about the benefits and work environment at DarbTech Labs SAS. 
+Join us today and be part of an innovative and growing team! 
+Good luck!
+ RABAT,
+ Morocco
+ Lead Odoo Junior
+[H3] Odoo developer Advanced - 3+ years of experience
+ 1
+ open position
+ DarbTech Labs SAS is actively looking for passionate and dynamic senior Odoo developers to join our team. As a senior Odoo developer, you will have the opportunity to work on exciting Agile projects of digitalization, automation, APIsation, AI integration and Odoo configuration, as well as Python development.
+Responsibilities:
+Contribute to the development and customization of Odoo modules according to specific customer needs
+Participate in the design and implementation of innovative solutions to automate business processes
+Collaborate with the team to integrate advanced features using Odoo APIs
+Explore and suggest improvements to optimize the performance and efficiency of Odoo systems
+Assist in configuring and customizing Odoo applications to meet customer requirements
+Qualifications:
+Degree in Computer Engineering or IT with Odoo training and certification on the job
+2+ years of participation in Odoo projects
+Good Python development skills
+Ability to work independently and proactively problem solve
+Ability to work in a dynamic and collaborative environment
+Bonnes compétences en communication en français et en anglais, une langue parlée et écrite en Afrique de l'Ouest (de Côte d'Ivoire au Congo).
+Immediate availability
+Ideally located 1.30 hours from Rabat with the possibility of working in flex office (2 days on site)
+Benefits:
+Dynamic and stimulating work environment within a passionate team
+Opportunity to contribute to innovative projects and learn from experts in the field
+Possibility of professional development within the company
+Flexibility of working in flex office to promote work-life balance
+How to Apply: 
+ If you are motivated by technical and functional challenges and want to participate in exciting projects in the field of ERP and software development, send your CV and a cover letter to odoodevconf@darbtech-labs.odoo.com. 
+You can also contact our current employees to learn more about the benefits and work environment at DarbTech Labs SAS. 
+Join us today and be part of an innovative and growing team! 
+Good luck!
+ RABAT,
+ Morocco
+ Dev Odoo Confirmé
+[H3] Odoo Internship
+ 1
+ open position
+DarbTech Labs SAS is actively looking for passionate and dynamic Odoo developer interns to join our team. As an Odoo developer intern, you will have the opportunity to work on exciting Agile projects of digitalization, automation, APIsation, AI integration and Odoo configuration, as well as Python development.
+Responsibilities:
+Contribute to the development and customization of Odoo modules according to specific customer needs.
+Participate in the design and implementation of innovative solutions to automate business processes.
+Collaborate with the team to integrate advanced features using Odoo APIs.
+Explore and suggest improvements to optimize the performance and efficiency of Odoo systems.
+Assist in configuring and customizing Odoo applications to meet customer requirements.
+Qualifications:
+Degree in Computer Engineering or IT with Odoo training and certification on the job.
+Good Python development skills.
+Ability to work independently and proactively problem solve.
+Ability to work in a dynamic and collaborative environment.
+Good communication skills in French and English.
+Immediate availability
+Ideally located 1.30 hours from Rabat with the possibility of working in flex office (2 days on site).
+Benefits:
+Dynamic and stimulating work environment within a passionate team.
+Opportunity to contribute to innovative projects and learn from experts in the field.
+Possibility of professional development within the company.
+Flexibility of working in flex office to promote work-life balance.
+How to Apply: 
+ If you are motivated by technical and functional challenges and want to participate in exciting projects in the field of ERP and software development, send your CV and a cover letter to pfe@darbtech-labs.odoo.com. 
+You can also contact our current employees to learn more about the benefits and work environment at DarbTech Labs SAS. 
+Join us today and be part of an innovative and growing team! 
+Good luck
+ RABAT,
+ Morocco
+ Stage PFE
+[H3] Odoo Technical functional Consultant
+ 1
+ open position
+DarbTech is looking for enthusiastic and skilled Odoo Technical and Functional Consultants to join our team. As an Odoo Functional Consultant, you will be responsible for analyzing customer needs, designing effective solutions, and guiding their successful implementation.
+Responsibilities:
+Collaborate with clients to understand their business processes and specific business management needs.
+Design and configure custom Odoo solutions to meet customers' functional requirements, using available modules or developing custom features.
+Provide end-user training on effective usage of Odoo applications and provide post-implementation support to ensure customer satisfaction.
+Participate in requirements gathering and analysis, writing functional specifications and coordinating with development teams to ensure successful implementation of solutions.
+Contribute to the continuous improvement of Odoo consultation processes and best practices within the company.
+Qualifications:
+Degree in computer engineering or business with Odoo training or certification.
+Strong functional analysis skills and ability to understand complex business processes.
+In-depth knowledge of Odoo functionalities and ability to configure and customize modules according to customer needs.
+Proficiency in Python development for creating custom modules or modifying existing features.
+Excellent communication skills in French and English, both oral and written.
+Ability to work independently and manage multiple projects simultaneously.
+Immediate availability and ability to work in a flexible and collaborative environment.
+Ideally located 1.30 hours from Rabat with the possibility of working in a flex office.
+Benefits:
+Dynamic and collaborative work environment within a passionate team.
+Opportunity to grow professionally and develop skills in Odoo consulting and project management.
+Opportunity to contribute to innovative and impactful projects in the field of ERP and software development.
+Flexibility of working in flex office to promote work-life balance.
+How to Apply:
+ If you are passionate about Odoo consulting and want to contribute to our clients' success, send your CV and a cover letter to consultant@darbtech-labs.odoo.com. Feel free to contact our current employees to learn more about the benefits and work environment at DarbTech. 
+Join us today and be part of a growing, innovative team!
+ RABAT,
+ Morocco
+ Consultant Odoo
+[H3] Odoo Agile Project Manager
+ 1
+ open position
+DarbTech is looking for talented and motivated Odoo Project Managers to join our dynamic team. As an Odoo Project Manager, you will be responsible for the complete management of Agile Odoo projects from planning to delivery, ensuring customer satisfaction and ensuring the quality of deliverables.
+Responsibilities:
+Support complete Odoo project management, including goal setting, planning, budgeting, risk and resource management, and progress tracking.
+Work closely with customers to understand their needs and requirements, and propose suitable solutions using Odoo features.
+Lead and coordinate development teams to ensure deliverables are completed on time and to agreed specifications.
+Ensure the quality of deliverables by supervising testing and validation processes, and ensuring that quality standards are met.
+Communicate proactively with internal and external stakeholders to maintain transparency and ensure customer satisfaction.
+Qualifications:
+Degree in Computer Engineering or IT with Agile, PMP, Odoo training and certifications on the job.
+Prior experience in Odoo or ERP project management, with a solid understanding of business processes.
+Proficiency in project management techniques including planning, budgeting and risk management.
+Advanced communication and stakeholder management skills.
+Ability to work independently and make informed decisions in a dynamic environment.
+Ability to work in a flexible and collaborative environment.
+Excellent skills in French and English, both oral and written.
+Immediate availability.
+Ideally located 1.30 hours from Rabat with the possibility of working in a flex office.
+Benefits:
+Stimulating work environment within a passionate and collaborative team.
+Opportunity to grow professionally and develop skills in project management and leadership.
+Opportunity to contribute to innovative and impactful projects in the field of ERP and software development.
+Flexibility of working in flex office to promote work-life balance.
+How to Apply: 
+ If you are ready for the exciting challenge of leading Odoo projects and want to contribute to our company's success, send your CV and a cover letter to pm@darbtech-labs.odoo.com. 
+Feel free to contact our current employees to learn more about the benefits and work environment at DarbTech. 
+Join us today and be part of a growing, innovative team! 
+Good luck! 
+ RABAT,
+ Morocco
+[H3] QA/Tester
+ 1
+ open position
+DarbTech Labs SAS is looking for talented and motivated Odoo developer testers to join our dynamic team. As an Odoo developer tester, you will be responsible for ensuring the quality and reliability of Odoo applications developed within our company for our customers.
+Responsibilities:
+Design and execute comprehensive test plans to validate the functionality of Odoo applications
+Identify, document and track anomalies encountered during testing, communicating them effectively to the development team
+Work closely with developers to understand functional requirements and design relevant test scenarios
+Automate testing where possible to speed up the testing process and improve efficiency
+Participate in the development of testing strategies and the continuous improvement of testing processes within the company
+Qualifications:
+Degree in Computer Engineering or IT with Odoo training and certification on the job.
+In-depth knowledge of software testing concepts and testing methodologies
+Hands-on experience in performing functional, regression and acceptance testing
+Notions or skills in Python development for the creation of automated test scripts
+Ability to work independently and meet deadlines
+Ability to work in a dynamic and collaborative environment
+Good communication skills in French and English.
+Immediate availability
+Ideally located 1.30 hours from Rabat with the possibility of working in flex office (2 days on site).
+Benefits:
+Dynamic and stimulating work environment within a passionate team.
+Opportunity to learn and grow professionally in the field of ERP and software development
+Opportunity to contribute to innovative and impactful projects
+Flexibility of working in flex office to promote work-life balance
+How to Apply: 
+If you are enthusiastic about ensuring the quality of Odoo applications and want to contribute to the success of our company, send your CV and a cover letter to odoodevconf@darbtech-labs.odoo.com. 
+Feel free to contact our current employees to learn more about the benefits and work environment at DarbTech Labs SAS. 
+Join us today and be part of a growing, innovative team! 
+Good luck! 
+ RABAT,
+ Morocco
+ QA
+[H3] Administrative Assistant
+ 1
+ open position
+Lieu : Rabat (hybride)
+Durée : Stage de 6 mois minimum, avec perspective d'embauche si qualifié(e)
+Démarrage : Dès que possible
+DarbTech, spécialiste de solutions digitales et intégrateur Odoo, recherche un(e) Chargé(e) de Mission Commerciale et Administrative pour un stage formateur et à haute responsabilité. Vous travaillerez directement avec la direction et participerez activement au développement stratégique de l’entreprise.
+[H3] Vos missions
+En tant que membre clé de l’équipe, vous serez chargé(e) de :
+Gestion commerciale :
+Suivi des prospects et des clients.
+Gestion des cycles de vente : préparation des devis, suivi des propositions commerciales, relances.
+Analyse des besoins clients pour proposer des solutions adaptées.
+Support administratif :
+Gestion des tâches administratives liées à la facturation, la paie et à la comptabilité.
+Coordination des flux d’information avec les partenaires et clients.
+Organisation des réunions et reporting d’activité.
+Optimisation des outils digitaux :
+Administration et sur l'ERP Odoo pour une gestion efficace des processus internes.
+Gestion des documents via SharePoint et utilisation avancée de MS Office.
+Required qualifications:
+Diplôme en administration des affaires, en gestion ou dans un domaine connexe comme une école de commerce, d’administration ou d’ingénieur.
+Excellentes compétences en communication écrite et verbale en Français et Anglais.
+Proficiency in office software such as Microsoft Office (Word, Excel, PowerPoint) and email management tools.
+Capacité à gérer plusieurs tâches et à prioriser efficacement et intelligemment.
+Attention to detail and ability to work independently.
+Exceptional organizational skills and ability to handle confidential information.
+Excellent relationnel et esprit d’équipe.
+Compréhension du fonctionnement d’une entreprise de services digitaux.
+Additional skills desired:
+Knowledge of project management software.
+Ability to work under pressure and meet strict deadlines.
+Proactive attitude and spirit of initiative.
+Working conditions:
+Hybride (2 jours/semaine au bureau)
+Dynamic and collaborative work environment.
+Opportunities for professional development and continuing education.
+[H3] Pourquoi rejoindre DarbTech ?
+Une exposition formatrice : Vous serez impliqué(e) dans des missions variées et stratégiques.
+Des responsabilités élevées : Interaction directe avec la direction et impact tangible sur l’entreprise.
+Une opportunité d’évolution : Possibilité d’embauche en fonction de vos performances.
+Un cadre hybride : Travail entre nos bureaux de Rabat et à distance.
+[H3] Comment postuler ?
+Envoyez votre CV et une lettre de motivation à [adminops@darbtech.net] avec l’objet : Stage – Chargé(e) de Mission Commerciale et Administrative.
+Nous avons hâte de découvrir vos talents et de vous intégrer dans notre équipe !
+ RABAT,
+ Morocco
+ ADMINISTRATIF
+ Stage PFE
+---section o_colored_level---
+ We are a team of passionate people whose goal is to improve everyone's life through disruptive products.
+ We build great products to solve your business problems.
+Contact us
+rh@darbtech.net
++33 1 88 33 41 64
+Follow us
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

@@ -1,0 +1,169 @@
+LANG fr-FR | TITLE DarbTech | Expert en Solutions ERP, CRM et Développement Web & Mobile
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('description', "DarbTech accompagne les PME dans leur transformation digitale grâce à des solutions sur mesure : intégration ERP/CRM avec Odoo, développement d'applications web et mobiles, et services DevOps.")
+META ('keywords', 'ERP,CRM,Odoo,développement web,applications mobiles,DevOps,transformation digitale,Facturation Electronique,Septembre 2026 - Sept - 09/26,Darbtech')
+META ('og:title', 'DarbTech | Expert en Solutions ERP, CRM et Développement Web & Mobile')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=e181b8f')
+META ('og:description', "DarbTech accompagne les PME dans leur transformation digitale grâce à des solutions sur mesure : intégration ERP/CRM avec Odoo, développement d'applications web et mobiles, et services DevOps.")
+META ('link-alternate', 'en https://www.darbtech.net/en')
+META ('link-alternate', 'fr https://www.darbtech.net/')
+META ('link-alternate', 'x-default https://www.darbtech.net/')
+META ('link-canonical', ' https://www.darbtech.net/')
+HEADINGS:
+   ('h2', 'À la\u200b Recherche\u200b de')
+   ('h2', "l'Excell\u200bence")
+   ('h2', "l'accompagnement parfait pour votre entreprise")
+   ('h2', "Excellence dans l'Offshoring")
+   ('h2', 'ERP')
+   ('h2', 'CRM')
+   ('h2', 'Boostez votre entreprise')
+   ('h2', 'Géré par des experts')
+   ('h2', 'Optimisez vos résultats')
+   ('h1', 'Découvrez nos derniers articles')
+LINKS:
+   ('#wrap', 'Se rendre au contenu')
+   ('/', '')
+   ('/', 'Accueil')
+   ('#', 'Services')
+   ('/devops', 'DevOps')
+   ('/integrateurdelogiciel', 'Intégrateur de Logiciel')
+   ('/blog/cas-client-4', 'Cas Clients')
+   ('/blog', 'Blog')
+   ('/aboutus', 'Notre Equipe')
+   ('/jobs', 'Postes')
+   ('/shop/cart', '0')
+   ('/en', '')
+   ('', '')
+   ('/contactus', 'Contactez-nous')
+   ('/aboutus', 'À propos de nous.')
+   ('/services', '\u200bPLUS DE DÉTAILS\u200b')
+   ('/services', '\u200b\u200bPLUS DE DÉTAILS\u200b\u200b')
+   ('/blog', '')
+   ('/services', 'Nos services')
+   ('/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bA\u200b \u200bp\u200bro\u200bp\u200bos\u200b \u200bde \u200bn\u200bo\u200bus')
+   ('/blog/cas-clients-4', 'Cas Clients')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Nous Choisir\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Choisir Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/7258-3b77f40d/11669313_20945894%20%281%29.jpg', '')
+   ('/web/image/7145-1768ec64/campaign-creators-gMsnXqILjp4-unsplash.jpg', '')
+   ('/web/image/7144-e9eef492/8459338.jpg', '')
+   ('/web/image/7160-61b8dc71/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.svg', '')
+   ('/web/image/7163-c50e6168/group-people-working-out-business-plan-office.svg', '')
+   ('/web/image/7161-5f221a97/top-view-workmates-talking-about-bar-chart.svg', '')
+   ('/web/image/7262-59595125/website.library_image_14', 'article 1')
+   ('/web/image/website.library_image_10', '/blo')
+   ('/web/image/website.library_image_13', None)
+   ('/web/image/7261-23c9ce4f/website.library_image_05', None)
+   ('/web/image/website.library_image_16', None)
+   ('/web/image/website.library_image_03', None)
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ DarbTech | Expert en Solutions ERP, CRM et Développement Web & Mobile
+ Se rendre au contenu
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+ 0
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+---section s_text_image o_colored_level pt72 pb40 o_snippet_invisible o---
+[H2] 
+ À la Recherche de
+[H2] l'Excellence
+Notre équipe dédiée vous accompagne dans les meilleurs conseils et intégrations digitales pour la performance de votre entreprise et votre satisfaction.
+À propos de nous. 
+---section s_picture overflow-hidden o_colored_level pb0 pt24 d-lg-bloc---
+[H2] l'accompagnement parfait pour votre entreprise
+
+Nous étudions et comprenons les besoins spécifiques pour votre entreprise. Nous offrons des solutions standard et sur mesure pour atteindre vos objectifs.
+ N'hésitez pas à nous contacter pour discuter de la façon dont nous pouvons collaborer efficacement et contribuer à la croissance de votre entreprise.
+---section s_text_image o_colored_level pt0 pb32---
+[H2] Excellence dans l'Offshoring
+Nos équipes certifiées sont habilitées à répondre pertinemment à vos besoins avec pour seul objectif : votre satisfaction. 
+---section s_color_blocks_2 o_colored_level---
+[H2] ERP
+ERP (Planification des Ressources de l'Entreprise) rationalise vos processus, centralise les données et améliore l'efficacité de votre entreprise. Gérez efficacement vos finances, stocks et ressources humaines.
+ PLUS DE DÉTAILS
+[H2] CRM
+CRM (Gestion de la Relation Client) est l'outil essentiel pour suivre, gérer et améliorer vos relations avec les clients. Augmentez la satisfaction client, fidélisez-les et optimisez vos ventes grâce à une communication ciblée et personnalisée.
+ PLUS DE DÉTAILS
+---section s_text_image o_colored_level pb0 o_cc o_cc1 pt48---
+[H2] 
+ Boostez votre entreprise 
+
+ Faites croître votre entreprise avec nos solutions efficaces.
+[H2] Géré par des experts
+
+Confiez votre entreprise à nos collaborateurs qualifiés pour une gestion en toute confiance.
+---section s_text_image o_colored_level pb0 pt0 o_cc o_cc1---
+---section s_text_image o_colored_level pt8 o_cc o_cc1 pb0---
+[H2] Optimisez vos résultats
+
+ Maximisez vos performances pour des résultats exceptionnels.
+---section s_title o_colored_level pb32 pt32 o_cc o_cc4---
+[H1] Découvrez nos derniers articles
+---section s_image_gallery o_spc-small o_colored_level pb0 o_cc o_cc4 p---
+---section s_text_block pb0 pt48---
+Explorateur
+Accueil
+Nos services
+A propos de nous
+Blog
+Interventions
+Cas Clients
+Pourquoi Nous Choisir
+Pourquoi Choisir Odoo
+CGU
+Nous suivre
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tél. : +33 1 88 33 41 64
+Darbtech 
+Rabat-Maroc 
+Résidence Oum Kalthoum, Boulevard Hassan II - RABAT AGDAL
+Tél. : +212 770 86 2295
+ Copyright © DarbTech Labs
+ Généré par 
+ - 
+ Le #1 Open Source eCommerce
+

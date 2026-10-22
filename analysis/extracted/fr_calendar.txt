@@ -1,0 +1,105 @@
+LANG fr-FR | TITLE Appointment Types | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Appointment Types | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/appointment')
+META ('link-alternate', 'fr https://www.darbtech.net/appointment')
+META ('link-alternate', 'x-default https://www.darbtech.net/appointment')
+META ('link-canonical', ' https://www.darbtech.net/appointment')
+HEADINGS:
+   ('h4', "Il n'y a actuellement aucun rendez-vous disponible")
+LINKS:
+   ('#wrap', 'Se rendre au contenu')
+   ('/', '')
+   ('/', 'Accueil')
+   ('#', 'Services')
+   ('/devops', 'DevOps')
+   ('/integrateurdelogiciel', 'Intégrateur de Logiciel')
+   ('/blog/cas-client-4', 'Cas Clients')
+   ('/blog', 'Blog')
+   ('/aboutus', 'Notre Equipe')
+   ('/jobs', 'Postes')
+   ('/shop/cart', '0')
+   ('/en/appointment', '')
+   ('/appointment', '')
+   ('/contactus', 'Contactez-nous')
+   ('/services', 'Nos services')
+   ('/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bA\u200b \u200bp\u200bro\u200bp\u200bos\u200b \u200bde \u200bn\u200bo\u200bus')
+   ('/blog/cas-clients-4', 'Cas Clients')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Nous Choisir\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Choisir Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ Appointment Types | DarbTech
+ Se rendre au contenu
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+ 0
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+[H4] Il n'y a actuellement aucun rendez-vous disponible
+---section s_text_block pb0 pt48---
+Explorateur
+Accueil
+Nos services
+A propos de nous
+Blog
+Interventions
+Cas Clients
+Pourquoi Nous Choisir
+Pourquoi Choisir Odoo
+CGU
+Nous suivre
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tél. : +33 1 88 33 41 64
+Darbtech 
+Rabat-Maroc 
+Résidence Oum Kalthoum, Boulevard Hassan II - RABAT AGDAL
+Tél. : +212 770 86 2295
+ Copyright © DarbTech Labs
+ Généré par 
+ - 
+ Le #1 Open Source eCommerce
+

@@ -1,0 +1,154 @@
+LANG en-US | TITLE Contact Us | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Contact Us | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/contactus')
+META ('link-alternate', 'fr https://www.darbtech.net/contactus')
+META ('link-alternate', 'x-default https://www.darbtech.net/contactus')
+META ('link-canonical', ' https://www.darbtech.net/en/contactus')
+HEADINGS:
+   ('h1', 'Contact us')
+   ('h2', 'Contact')
+   ('h4', 'DarbTech Labs')
+   ('h4', 'DarbTech')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/contactus', '')
+   ('/contactus', '')
+   ('/en/contactus', 'Contact us')
+   ('#', 'Submit')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+   FORM action=/website/form/
+     input name=contact_name type=text req=True
+     input name=partner_name type=text req=True
+     input name=Poste Occupé :  type=text req=True
+     input name=phone type=tel req=True
+     input name=email_from type=email req=True
+     input name=Type de demande :  type=radio req=True
+     input name=Type de demande :  type=radio req=True
+     input name=Type de demande :  type=radio req=True
+     select name=A quel moment peut-on vous rejoindre ? type=None req=False
+     input name=name type=text req=True
+     textarea name=Votre question :  type=None req=True
+TEXT:
+
+ Contact Us | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+---section s_title parallax s_parallax_is_fixed bg-black-50 pt24 pb24 o---
+[H1] Contact us
+---section s_text_block pt40 o_colored_level o_cc o_cc1 pb64---
+ Contact DarbTech Labs for any questions regarding our company or services. We are committed to responding promptly and providing the information you need as quickly as possible.
+---section s_website_form---
+Full name
+Company
+Occupied position
+Phone number
+ Mail
+ Type of request
+ Commercial
+ Technical Support
+ Job
+ At what time can we join you?
+ As soon as possible
+ Today
+ Tomorrow
+ In 2 days
+Subject
+Your question
+ Submit
+[H2] Contact
+[H4] DarbTech Labs
+Paris - FRANCE
+122 Av. DAUMESNIL,
+75013 PARIS
+Tél. : +33 1 88 33 41 64
+
+[H4] DarbTech
+Rabat - MAROC
+Résidence Oum Kalthoum, Boulevard HassanII - AGDAL
+10120 RABAT
+Tél. : +212 5 22 58 48 26
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

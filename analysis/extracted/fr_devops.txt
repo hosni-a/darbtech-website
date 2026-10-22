@@ -1,0 +1,135 @@
+LANG fr-FR | TITLE devops | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'devops | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/devops')
+META ('link-alternate', 'fr https://www.darbtech.net/devops')
+META ('link-alternate', 'x-default https://www.darbtech.net/devops')
+META ('link-canonical', ' https://www.darbtech.net/devops')
+HEADINGS:
+   ('h1', 'DevOps')
+   ('h2', 'Applications mobile')
+   ('h2', 'Web services')
+   ('h2', 'Applications web')
+   ('h2', 'Développement')
+   ('h2', '')
+LINKS:
+   ('#wrap', 'Se rendre au contenu')
+   ('/', '')
+   ('/', 'Accueil')
+   ('#', 'Services')
+   ('/devops', 'DevOps')
+   ('/integrateurdelogiciel', 'Intégrateur de Logiciel')
+   ('/blog/cas-client-4', 'Cas Clients')
+   ('/blog', 'Blog')
+   ('/aboutus', 'Notre Equipe')
+   ('/jobs', 'Postes')
+   ('/shop/cart', '0')
+   ('/en/devops', '')
+   ('/devops', '')
+   ('/contactus', 'Contactez-nous')
+   ('/contactus', '\u200bContactez-nous\u200b')
+   ('/services', 'Nos services')
+   ('/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bA\u200b \u200bp\u200bro\u200bp\u200bos\u200b \u200bde \u200bn\u200bo\u200bus')
+   ('/blog/cas-clients-4', 'Cas Clients')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Nous Choisir\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Choisir Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/7637-75e4d9c0/WhatsApp%20Image%202023-11-10%20at%2012.02.46%20PM.jpeg', '')
+   ('/web_editor/shape/theme_cobalt/s_image_text.svg?c1=%230047BB', 'Marketing')
+   ('/web_editor/shape/theme_cobalt/s_text_image.svg?c1=%230047BB', 'Marketing')
+   ('/web/image/7638-f894a698/WhatsApp%20Image%202023-11-10%20at%2012.02.52%20PM.jpeg', '')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ devops | DarbTech
+ Se rendre au contenu
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+ 0
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+---section s_text_cover o_colored_level o_cc o_cc4---
+[H1] 
+ DevOps
+DarbTech est en mesure d'étudier et de répondre à votre besoin en mettant à votre disposition des équipes de développeurs expérimentés pour achever l'ensemble de vos projets tout en vous laissant vous consacrer à votre cœur de métier.
+ Contactez-nous
+---section s_text_image o_colored_level pt0 pb0---
+[H2] Applications mobile
+Dans notre monde ultra-connecté, les smartphones sont devenus de véritables compagnons sachant se rendre indispensables avec en moyenne 150 consultations par jour et par utilisateur. Le nombre moyen d'applications disponibles est de 46, mais seulement 19 applications en moyenne sont réellement utilisées au moins une fois par mois. 
+DarbTech vous accompagne dans vos projets de développement d'applications mobiles multi-plateformes (iOS & Android). Contactez-nous
+---section s_text_image o_colored_level pb112 pt0---
+[H2] Web services
+Avec l'arrivée en force des microservices, les architectures informatiques sont en pleine mutation pour offrir plus de souplesse et d'interopérabilité.
+DarbTech développe, exploite et connecte les web services indispensables à vos projets d'applications mobiles et web. Contactez-nous
+---section s_text_image o_colored_level pt0 pb32---
+[H2] Applications web
+Accessibles depuis tous les écrans, les applications web se sont imposées peu à peu au sein des entreprises ; qu'elles soient installées on-premise ou utilisées en mode SaaS. Désormais, chaque acteur au sein de son Entreprise demande et possède ses propres accès au logiciel partagé pour pourvoir consulter et travailler avec l’ensemble des autres services au sein d’une application unique.
+DarbTech met à votre disposition son expérience sur les langages et frameworks les plus performants. Contactez-nous
+---section s_text_image o_colored_level pb120 pt0---
+[H2] Développement
+[H2] 
+Vous avez un projet de développement à nous soumettre, dites-nous tout en remplissant le formulaire de contact en bas de cette page, et nous en vous appellerons pour en discuter. A tout de suite ! Contactez-nous
+---section s_text_block pb0 pt48---
+Explorateur
+Accueil
+Nos services
+A propos de nous
+Blog
+Interventions
+Cas Clients
+Pourquoi Nous Choisir
+Pourquoi Choisir Odoo
+CGU
+Nous suivre
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tél. : +33 1 88 33 41 64
+Darbtech 
+Rabat-Maroc 
+Résidence Oum Kalthoum, Boulevard Hassan II - RABAT AGDAL
+Tél. : +212 770 86 2295
+ Copyright © DarbTech Labs
+ Généré par 
+ - 
+ Le #1 Open Source eCommerce
+

@@ -1,0 +1,262 @@
+LANG en-US | TITLE Odoo Information | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Odoo Information | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/website/info')
+META ('link-alternate', 'fr https://www.darbtech.net/website/info')
+META ('link-alternate', 'x-default https://www.darbtech.net/website/info')
+META ('link-canonical', ' https://www.darbtech.net/en/website/info')
+HEADINGS:
+   ('h1', 'DarbTech SARL')
+   ('h2', 'Installed Applications')
+   ('h2', 'Installed Localizations / Account Charts')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/website/info', '')
+   ('/website/info', '')
+   ('/en/contactus', 'Contact us')
+   ('https://www.odoo.com', 'Open Source ERP')
+   ('https://www.odoo.com/app/sales', 'Sales')
+   ('https://www.odoo.com/app/invoicing', 'Invoicing')
+   ('https://www.odoo.com/app/crm', 'CRM')
+   ('https://www.odoo.com/app/website', 'Website')
+   ('https://www.odoo.com/app/inventory', 'Inventory')
+   ('https://www.odoo.com/app/accounting', 'Accounting')
+   ('https://www.odoo.com/app/purchase', 'Purchase')
+   ('https://www.odoo.com/app/point-of-sale-shop', 'Point of Sale')
+   ('https://www.odoo.com/app/project', 'Project')
+   ('https://www.odoo.com/app/ecommerce', 'eCommerce')
+   ('https://www.odoo.com/app/email-marketing', 'Email Marketing')
+   ('https://www.odoo.com/app/timesheet', 'Timesheets')
+   ('https://www.odoo.com/app/expenses', 'Expenses')
+   ('https://www.odoo.com/app/studio', 'Studio')
+   ('https://www.odoo.com/app/documents', 'Documents')
+   ('https://www.odoo.com/app/time-off', 'Time Off')
+   ('https://www.odoo.com/app/recruitment', 'Recruitment')
+   ('https://www.odoo.com/app/employees', 'Employees')
+   ('https://www.odoo.com/app/maintenance', 'Maintenance')
+   ('https://www.ringover.com/', 'Ringover')
+   ('https://www.odoo.com/app/sign', 'Sign')
+   ('https://www.odoo.com/app/subscriptions', 'Subscriptions')
+   ('https://www.odoo.com/app/discuss', 'Discuss')
+   ('https://www.odoo.com/app/social-marketing', 'Social Marketing')
+   ('https://www.odoo.com/app/appraisals', 'Appraisals')
+   ('https://www.odoo.com/app/live-chat', 'Live Chat')
+   ('https://www.odoo.com/app/appointments', 'Appointments')
+   ('https://www.odoo.com/app/surveys', 'Surveys')
+   ('', 'Employee Referral')
+   ('https://www.odoo.com/app/employees', 'Attendances')
+   ('https://www.odoo.com/app/accounting/l10n_fr', 'France - Localizations')
+   ('https://www.odoo.com/documentation/latest/applications/finance/fiscal_localizations/france.html', 'France - Accounting')
+   ('https://www.odoo.com/app/accounting/l10n_fr_facturx_chorus_pro', 'France - BIS3 integration for Chorus Pro')
+   ('https://www.odoo.com/app/accounting/l10n_fr_fec_import', 'France - FEC Import')
+   ('https://www.odoo.com/app/accounting/l10n_fr_hr_holidays', 'France - Time Off')
+   ('https://www.odoo.com/app/accounting/l10n_fr_hr_payroll', 'French Payroll')
+   ('https://www.odoo.com/app/accounting/l10n_fr_hr_payroll_account', 'France - Payroll with Accounting')
+   ('https://www.odoo.com/app/accounting/l10n_fr_hr_work_entry_holidays', 'France - Work Entries Time Off')
+   ('https://www.odoo.com/documentation/18.0/applications/finance/fiscal_localizations/france.html#PDP', 'France - E-Invoicing (Approved Platform)')
+   ('https://www.odoo.com/app/accounting/l10n_fr_pdp_pos', 'France - E-reporting for POS')
+   ('https://www.odoo.com/app/accounting/l10n_fr_pos_cert', 'France - VAT Anti-Fraud Certification for Point of Sale (CGI')
+   ('https://www.odoo.com/app/accounting/l10n_fr_reports', 'France - Accounting Reports')
+   ('https://www.odoo.com/app/accounting/l10n_ma', 'Morocco - Accounting')
+   ('https://www.odoo.com/app/accounting/l10n_ma_hr_payroll', 'Morocco - Payroll')
+   ('https://www.odoo.com/app/accounting/l10n_ma_hr_payroll_account', 'Morocco - Payroll with Accounting')
+   ('https://www.odoo.com/app/accounting', 'Morocco - Accounting Reports')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ Odoo Information | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+---section container---
+[H1] DarbTech SARL
+ Information about the DarbTech SARL instance of Odoo, the Open Source ERP.
+[H2] Installed Applications
+ Sales
+ From quotations to invoices
+ Invoicing
+ Invoices & Payments
+ CRM
+ Track leads and close opportunities
+ Website
+ Enterprise website builder
+ Inventory
+ Manage your stock and logistics activities
+ Accounting
+ Manage financial and analytic accounting
+ Purchase
+ Purchase orders, tenders and agreements
+ Point of Sale
+ Handle checkouts and payments for shops and restaurants.
+ Project
+ Organize and plan your projects
+ eCommerce
+ Sell your products online
+ Email Marketing
+ Design, send and track emails
+ Timesheets
+ Track employee time on tasks
+ Expenses
+ Submit, validate and reinvoice employee expenses
+ Studio
+ Create and customize your Odoo apps
+ Documents
+ Collect, organize and share documents.
+ Time Off
+ Allocate time off and follow leave requests
+ Recruitment
+ Track your recruitment pipeline
+ Employees
+ Centralize employee information
+ AI
+ A powerful suite of AI tools and agents
+ integrated directly into your Odoo environment.
+ Knowledge
+ Centralize, manage, share and grow your knowledge library
+ Maintenance
+ Track equipment and manage maintenance requests
+ Ringover
+ Make and receive calls and SMS, sync contacts, 
+ capture conversation history and recordings right from your Odoo Platform (SaaS compatible)
+ WhatsApp Messaging
+ Text your Contacts on WhatsApp
+ Sign
+ Send and request electronic signatures.
+ Subscriptions
+ Generate recurring invoices and manage renewals
+ Planning
+ Manage your employees' schedule
+ Discuss
+ Chat, mail gateway and private channels
+ Contacts
+ Centralize your address book
+ Calendar
+ Schedule employees' meetings
+ Social Marketing
+ Manage your social media and website visitors
+ Appraisals
+ Assess your employees
+ Approvals
+ Create and validate approvals requests
+ Live Chat
+ Chat with your website visitors
+ Appointments
+ Allow people to book meetings in your agenda
+ Surveys
+ Send your surveys or share them live.
+ Employee Referral
+ Let your employees share job positions and refer their friends
+ Attendances
+ Track employee attendance
+ To-Do
+ Organize your work with memos and to-do lists
+ Skills Management
+ Manage skills, knowledge and resume of your employees
+ Payroll
+ Manage your employee payroll
+ Online Jobs
+ Manage your online hiring process
+[H2] Installed Localizations / Account Charts
+ France - Localizations
+ France - Accounting
+ France - BIS3 integration for Chorus Pro
+ France - FEC Import
+ Import Accounting Data from FEC files
+ France - Time Off
+ Management of leaves for part-time workers in France
+ French Payroll
+ France - Payroll with Accounting
+ France - Work Entries Time Off
+ Management of leaves for part-time workers in France
+ France - E-Invoicing (Approved Platform)
+ France - E-reporting for POS
+ PDP Flux 10 e-reporting for POS
+ France - VAT Anti-Fraud Certification for Point of Sale (CGI 286 I-3 bis)
+ France - Accounting Reports
+ Morocco - Accounting
+ Morocco - Payroll
+ Morocco - Payroll with Accounting
+ Morocco - Accounting Reports
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

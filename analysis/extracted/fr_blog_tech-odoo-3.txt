@@ -1,0 +1,224 @@
+LANG fr-FR | TITLE Tech & Odoo | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Tech & Odoo | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/blog/tech-odoo-3')
+META ('link-alternate', 'fr https://www.darbtech.net/blog/tech-odoo-3')
+META ('link-alternate', 'x-default https://www.darbtech.net/blog/tech-odoo-3')
+META ('link-canonical', ' https://www.darbtech.net/blog/tech-odoo-3')
+META ('link-alternate', ' /blog/tech-odoo-3/feed')
+HEADINGS:
+   ('h1', 'Tech & Odoo')
+LINKS:
+   ('#wrap', 'Se rendre au contenu')
+   ('/', '')
+   ('/', 'Accueil')
+   ('#', 'Services')
+   ('/devops', 'DevOps')
+   ('/integrateurdelogiciel', 'Intégrateur de Logiciel')
+   ('/blog/cas-client-4', 'Cas Clients')
+   ('/blog', 'Blog')
+   ('/aboutus', 'Notre Equipe')
+   ('/jobs', 'Postes')
+   ('/shop/cart', '0')
+   ('/en/blog/tech-odoo-3', '')
+   ('/blog/tech-odoo-3', '')
+   ('/contactus', 'Contactez-nous')
+   ('/blog', 'Tous')
+   ('/blog/tech-odoo-3', 'Tech & Odoo')
+   ('/blog/cas-clients-4', 'Cas Clients')
+   ('/blog/actualites-5', 'Actualités')
+   ('/blog/success-stories-6', 'Success Stories')
+   ('/blog/gestion-d-entreprise-1', "Gestion d'entreprise")
+   ('', '')
+   ('/blog/tech-odoo-3/avantages-et-limites-de-l-ia-en-entreprise-une-epee-a-double-tranchant-69', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/avantages-et-limites-de-l-ia-en-entreprise-une-epee-a-double-tranchant-69', 'Avantages et Limites de l’IA en Entreprise: Une épée à doubl')
+   ('/blog/tech-odoo-3/avantages-et-limites-de-l-ia-en-entreprise-une-epee-a-double-tranchant-69', "L'intelligence artificielle (IA) est devenue un outil incont")
+   ('/blog/tech-odoo-3/gerer-la-transformation-digitale-et-developper-un-erp-odoo-avec-des-processus-lean-68', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/gerer-la-transformation-digitale-et-developper-un-erp-odoo-avec-des-processus-lean-68', 'Gérer la Transformation Digitale et Développer un ERP Odoo a')
+   ('/blog/tech-odoo-3/gerer-la-transformation-digitale-et-developper-un-erp-odoo-avec-des-processus-lean-68', 'La transformation digitale est un impératif stratégique pour')
+   ('/blog/tech-odoo-3/guide-complet-pour-transitionner-d-une-interconnexion-de-systemes-vers-un-erp-integre-comme-odoo-63', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/guide-complet-pour-transitionner-d-une-interconnexion-de-systemes-vers-un-erp-integre-comme-odoo-63', "Guide complet pour transitionner d'une interconnexion de sys")
+   ('/blog/tech-odoo-3/guide-complet-pour-transitionner-d-une-interconnexion-de-systemes-vers-un-erp-integre-comme-odoo-63', 'De nombreuses entreprises se trouvent à la croisée des chemi')
+   ('/blog/tech-odoo-3/tirer-parti-de-l-ia-dans-le-recrutement-ameliorer-l-efficacite-responsabiliser-les-ressources-et-augmenter-le-chiffre-d-affaires-64', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/tirer-parti-de-l-ia-dans-le-recrutement-ameliorer-l-efficacite-responsabiliser-les-ressources-et-augmenter-le-chiffre-d-affaires-64', "Tirer parti de l'IA dans le recrutement : améliorer l'effica")
+   ('/blog/tech-odoo-3/tirer-parti-de-l-ia-dans-le-recrutement-ameliorer-l-efficacite-responsabiliser-les-ressources-et-augmenter-le-chiffre-d-affaires-64', "Les entreprises cherchent continuellement des moyens d'améli")
+   ('/blog/tech-odoo-3/transformer-le-secteur-de-la-fabrication-avec-l-ia-top-5-des-mises-en-œuvre-pour-augmenter-l-efficacite-et-le-chiffre-d-affaires-65', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/transformer-le-secteur-de-la-fabrication-avec-l-ia-top-5-des-mises-en-œuvre-pour-augmenter-l-efficacite-et-le-chiffre-d-affaires-65', "Transformer le secteur de la fabrication avec l'IA : Top 5 d")
+   ('/blog/tech-odoo-3/transformer-le-secteur-de-la-fabrication-avec-l-ia-top-5-des-mises-en-œuvre-pour-augmenter-l-efficacite-et-le-chiffre-d-affaires-65', "L'intelligence artificielle (IA) révolutionne l'industrie ma")
+   ('/blog/tech-odoo-3/secteurs-ou-l-ia-et-l-automatisation-peuvent-vous-aider-de-maniere-significative-dans-les-taches-penibles-66', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/secteurs-ou-l-ia-et-l-automatisation-peuvent-vous-aider-de-maniere-significative-dans-les-taches-penibles-66', "Secteurs où l'IA et l'automatisation peuvent vous aider de m")
+   ('/blog/tech-odoo-3/secteurs-ou-l-ia-et-l-automatisation-peuvent-vous-aider-de-maniere-significative-dans-les-taches-penibles-66', 'Grâce à la démocratisation de la digitalisation, imaginez qu')
+   ('/blog/tech-odoo-3/odoo-l-erp-champion-efficace-pour-les-pme-accelerant-leur-croissance-et-competitivite-57', 'DarbTech Team')
+   ('/blog/tech-odoo-3/odoo-l-erp-champion-efficace-pour-les-pme-accelerant-leur-croissance-et-competitivite-57', "Odoo : L'ERP champion efficace pour les PME accélérant leur ")
+   ('/blog/tech-odoo-3/odoo-l-erp-champion-efficace-pour-les-pme-accelerant-leur-croissance-et-competitivite-57', 'Les petites et moyennes entreprises (PME) font face à des dé')
+   ('/blog/tech-odoo-3/odoo-le-champion-de-l-erp-rentable-pour-les-pme-accelerant-la-croissance-et-la-competitivite-56', 'DarbTech Team')
+   ('/blog/tech-odoo-3/odoo-le-champion-de-l-erp-rentable-pour-les-pme-accelerant-la-croissance-et-la-competitivite-56', "Odoo : Le Champion de l'ERP Rentable pour les PME Accélérant")
+   ('/blog/tech-odoo-3/odoo-le-champion-de-l-erp-rentable-pour-les-pme-accelerant-la-croissance-et-la-competitivite-56', 'Les Petites et Moyennes Entreprises (PME) sont confrontées à')
+   ('/blog/tech-odoo-3/optimisation-de-la-production-et-de-la-fabrication-avec-le-module-mrp-d-odoo-4', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/optimisation-de-la-production-et-de-la-fabrication-avec-le-module-mrp-d-odoo-4', 'Optimisation de la production et de la fabrication avec le m')
+   ('/blog/tech-odoo-3/optimisation-de-la-production-et-de-la-fabrication-avec-le-module-mrp-d-odoo-4', "L'efficacité et la précision dans les processus de fabricati")
+   ('/blog/tech-odoo-3/transformer-votre-entreprise-avec-odoo-v17-une-suite-integree-pour-une-gestion-d-entreprise-avancee-52', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/transformer-votre-entreprise-avec-odoo-v17-une-suite-integree-pour-une-gestion-d-entreprise-avancee-52', 'Transformer votre Entreprise avec Odoo V17 : Une Suite Intég')
+   ('/blog/tech-odoo-3/transformer-votre-entreprise-avec-odoo-v17-une-suite-integree-pour-une-gestion-d-entreprise-avancee-52', 'Les entreprises recherchent des solutions complètes pour gér')
+   ('/blog/tech-odoo-3/l-ia-generative-c-est-quoi-21', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/l-ia-generative-c-est-quoi-21', "L'IA Générative? C'est quoi?")
+   ('/blog/tech-odoo-3/l-ia-generative-c-est-quoi-21', "L'IA générative fait référence à un type d'intelligence arti")
+   ('/blog/tech-odoo-3/comparatif-odoo-et-sa-concurrence-37', 'DarbTech SARL, Frédéric Phan')
+   ('/blog/tech-odoo-3/comparatif-odoo-et-sa-concurrence-37', 'Comparatif: Odoo et sa concurrence')
+   ('/blog/tech-odoo-3/comparatif-odoo-et-sa-concurrence-37', 'Il est toujours difficile de choisir un logiciel de gestion ')
+   ('/blog/tech-odoo-3', '1')
+   ('/blog/tech-odoo-3/page/2', '2')
+   ('/blog/tech-odoo-3/page/2', '')
+   ('/services', 'Nos services')
+   ('/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bA\u200b \u200bp\u200bro\u200bp\u200bos\u200b \u200bde \u200bn\u200bo\u200bus')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Nous Choisir\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Choisir Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/blog.post/57/author_avatar/Odoo%20:%20L%27ERP%20champion%20efficace%20pour%20les%20PME%20acc%C3%A9l%C3%A9rant', "Odoo : L'ERP champion efficace pour les PME accélérant leur croissance et compétitivité")
+   ('/web/image/blog.post/56/author_avatar/Odoo%20:%20Le%20Champion%20de%20l%27ERP%20Rentable%20pour%20les%20PME%20Acc%C3%A9l', "Odoo : Le Champion de l'ERP Rentable pour les PME Accélérant la Croissance et la Compétitivité")
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+   FORM action=/blog/tech-odoo-3
+     input name=search type=search req=False
+     input name=order type=hidden req=False
+     input name=tag type=hidden req=False
+     input name=date_begin type=hidden req=False
+     input name=date_end type=hidden req=False
+TEXT:
+
+ Tech & Odoo | DarbTech
+ Se rendre au contenu
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+ 0
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+[H1] Tech & Odoo
+ Blogs :
+ Tous
+ Tech & Odoo
+ Cas Clients
+ Actualités
+ Success Stories
+ Gestion d'entreprise
+Blogs
+ Tous
+ Tech & Odoo
+ Cas Clients
+ Actualités
+ Success Stories
+ Gestion d'entreprise
+---section ---
+ DarbTech SARL, Frédéric Phan
+ Avantages et Limites de l’IA en Entreprise: Une épée à double tranchant
+L'intelligence artificielle (IA) est devenue un outil incontournable dans le monde des entreprises, aidant les acteursà accroître leur efficacité, à améliorer leur prise de décision et à réduire leurs...
+ 24 oct. 2024
+ DarbTech SARL, Frédéric Phan
+ Gérer la Transformation Digitale et Développer un ERP Odoo avec des Processus Lean
+La transformation digitale est un impératif stratégique pour les entreprises souhaitant rester compétitives dans un marché en constante évolution. Un des leviers principaux de cette transformation est...
+ 14 août 2024
+ DarbTech SARL, Frédéric Phan
+ Guide complet pour transitionner d'une interconnexion de systèmes vers un ERP intégré comme Odoo
+De nombreuses entreprises se trouvent à la croisée des chemins : continuer à assembler diverses solutions (Make.com, Zapier, Airtable, Trello, UIPath, etc…) ou adopter un système unifié de planificati...
+ 28 juin 2024
+ DarbTech SARL, Frédéric Phan
+ Tirer parti de l'IA dans le recrutement : améliorer l'efficacité, responsabiliser les ressources et augmenter le chiffre d’affaires
+Les entreprises cherchent continuellement des moyens d'améliorer l'efficacité, de responsabiliser leurs équipes et de stimuler la croissance des revenus. L'intelligence artificielle (IA) change la don...
+ 28 juin 2024
+ DarbTech SARL, Frédéric Phan
+ Transformer le secteur de la fabrication avec l'IA : Top 5 des mises en œuvre pour augmenter l'efficacité et le chiffre d'affaires
+L'intelligence artificielle (IA) révolutionne l'industrie manufacturière en améliorant l'efficacité, en responsabilisant les ressources et en stimulant la croissance des revenus. De la maintenance pré...
+ 28 juin 2024
+ DarbTech SARL, Frédéric Phan
+ Secteurs où l'IA et l'automatisation peuvent vous aider de manière significative dans les tâches pénibles
+Grâce à la démocratisation de la digitalisation, imaginez que l'Automatisation et l'IA vous libèrent vos équipes et vous-même des tâches répétitives et encombrantes, qui requièrent de long processus d...
+ 28 juin 2024
+ DarbTech Team
+ Odoo : L'ERP champion efficace pour les PME accélérant leur croissance et compétitivité
+Les petites et moyennes entreprises (PME) font face à des défis uniques qui exigent des solutions efficaces, évolutives et rentables. Odoo entre en scène comme une suite complète d'applications d'entr...
+ 9 juin 2024
+ DarbTech Team
+ Odoo : Le Champion de l'ERP Rentable pour les PME Accélérant la Croissance et la Compétitivité
+Les Petites et Moyennes Entreprises (PME) sont confrontées à des défis uniques qui exigent des solutions efficaces, évolutives et rentables. Entrez Odoo, une suite complète d'applications métier et un...
+ 4 avr. 2024
+ DarbTech SARL, Frédéric Phan
+ Optimisation de la production et de la fabrication avec le module MRP d'Odoo.
+L'efficacité et la précision dans les processus de fabrication sont essentielles pour le succès d'une entreprise. Pour rester en tête, les entreprises se tournent vers des solutions intégrées qui peuv...
+ 14 mars 2024
+ DarbTech SARL, Frédéric Phan
+ Transformer votre Entreprise avec Odoo V17 : Une Suite Intégrée pour une Gestion d'Entreprise Avancée
+Les entreprises recherchent des solutions complètes pour gérer leurs opérations de manière efficace et intégrée. Odoo V17 se présente comme une réponse complète à cette quête, offrant une suite exhaus...
+ 3 mars 2024
+ DarbTech SARL, Frédéric Phan
+ L'IA Générative? C'est quoi?
+L'IA générative fait référence à un type d'intelligence artificielle capable de créer de nouveaux contenus, tels que du texte, des images, des vidéos et même de la musique, sur la base des modèles qu'...
+ 14 févr. 2024
+ DarbTech SARL, Frédéric Phan
+ Comparatif: Odoo et sa concurrence
+Il est toujours difficile de choisir un logiciel de gestion de votre entreprise car plusieurs facteurs rentrent en compte à court, moyen et long termes. Chaque solution a ses avantages et inconvénient...
+ 14 févr. 2024
+ 1
+ 2
+---section s_text_block pb0 pt48---
+Explorateur
+Accueil
+Nos services
+A propos de nous
+Blog
+Interventions
+Cas Clients
+Pourquoi Nous Choisir
+Pourquoi Choisir Odoo
+CGU
+Nous suivre
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tél. : +33 1 88 33 41 64
+Darbtech 
+Rabat-Maroc 
+Résidence Oum Kalthoum, Boulevard Hassan II - RABAT AGDAL
+Tél. : +212 770 86 2295
+ Copyright © DarbTech Labs
+ Généré par 
+ - 
+ Le #1 Open Source eCommerce
+

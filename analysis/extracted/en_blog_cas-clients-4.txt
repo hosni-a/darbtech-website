@@ -1,0 +1,164 @@
+LANG en-US | TITLE Client Cases | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Client Cases | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/blog/client-cases-4')
+META ('link-alternate', 'fr https://www.darbtech.net/blog/cas-clients-4')
+META ('link-alternate', 'x-default https://www.darbtech.net/blog/cas-clients-4')
+META ('link-canonical', ' https://www.darbtech.net/en/blog/client-cases-4')
+META ('link-alternate', ' /en/blog/client-cases-4/feed')
+HEADINGS:
+   ('h1', 'Client Cases')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/blog/client-cases-4', '')
+   ('/blog/cas-clients-4', '')
+   ('/en/contactus', 'Contact us')
+   ('/en/blog', 'All')
+   ('/en/blog/tech-odoo-3', 'Tech & Odoo')
+   ('/en/blog/client-cases-4', 'Client Cases')
+   ('/en/blog/actualites-5', 'Actualités')
+   ('/en/blog/success-stories-6', 'Success Stories')
+   ('/en/blog/business-management-1', 'Business Management')
+   ('', '')
+   ('/en/blog/client-cases-4/foolproof-method-to-identify-and-detect-ai-implementable-topics-for-smes-and-businesses-in-any-department-roi-and-concrete-use-cases-70', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/client-cases-4/foolproof-method-to-identify-and-detect-ai-implementable-topics-for-smes-and-businesses-in-any-department-roi-and-concrete-use-cases-70', 'Foolproof Method to Identify and Detect AI-Implementable Top')
+   ('/en/blog/client-cases-4/foolproof-method-to-identify-and-detect-ai-implementable-topics-for-smes-and-businesses-in-any-department-roi-and-concrete-use-cases-70', 'Artificial Intelligence (AI) presents major opportunities fo')
+   ('/en/blog/client-cases-4/odoo-applications-in-the-digitalization-of-smes-20', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/client-cases-4/odoo-applications-in-the-digitalization-of-smes-20', 'Odoo applications in the digitalization of SMEs')
+   ('/en/blog/client-cases-4/odoo-applications-in-the-digitalization-of-smes-20', 'The flexibility of Odoo and its comprehensive suite of busin')
+   ('/en/blog/client-cases-4/engagement-in-the-digitization-of-the-business-process-18', 'DarbTech Team')
+   ('/en/blog/client-cases-4/engagement-in-the-digitization-of-the-business-process-18', 'Engagement in the digitization of the business process.')
+   ('/en/blog/client-cases-4/engagement-in-the-digitization-of-the-business-process-18', 'PUTHOD, a company based in the Pays de Savoie region special')
+   ('/en/blog/client-cases-4/implementation-of-a-lead-and-commercial-offer-tracking-tool-in-odoo-crm-19', 'DarbTech Team')
+   ('/en/blog/client-cases-4/implementation-of-a-lead-and-commercial-offer-tracking-tool-in-odoo-crm-19', 'Implementation of a lead and commercial offer tracking tool ')
+   ('/en/blog/client-cases-4/implementation-of-a-lead-and-commercial-offer-tracking-tool-in-odoo-crm-19', 'CAMELEON, a company based in the Pays de Savoie region speci')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/blog.post/18/author_avatar/Engagement%20in%20the%20digitization%20of%20the%20business%20process.?unique=20b4e', 'Engagement in the digitization of the business process.')
+   ('/web/image/blog.post/19/author_avatar/Implementation%20of%20a%20lead%20and%20commercial%20offer%20tracking%20tool%20in%2', 'Implementation of a lead and commercial offer tracking tool in Odoo CRM.')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+   FORM action=/en/blog/client-cases-4
+     input name=search type=search req=False
+     input name=order type=hidden req=False
+     input name=tag type=hidden req=False
+     input name=date_begin type=hidden req=False
+     input name=date_end type=hidden req=False
+TEXT:
+
+ Client Cases | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+[H1] Client Cases
+ Blogs:
+ All
+ Tech & Odoo
+ Client Cases
+ Actualités
+ Success Stories
+ Business Management
+Blogs
+ All
+ Tech & Odoo
+ Client Cases
+ Actualités
+ Success Stories
+ Business Management
+---section ---
+ DarbTech SARL, Frédéric Phan
+ Foolproof Method to Identify and Detect AI-Implementable Topics for SMEs and Businesses in Any Department: ROI and Concrete Use Cases
+Artificial Intelligence (AI) presents major opportunities for SMEs and businesses of all sizes. However, many hesitate to adopt it due to a lack of clarity on use cases, feasibility, and, most importa...
+ Feb 4, 2025
+ DarbTech SARL, Frédéric Phan
+ Odoo applications in the digitalization of SMEs
+The flexibility of Odoo and its comprehensive suite of business applications have led to its successful implementation across a wide range of industries and sectors, particularly for small and medium-...
+ Feb 14, 2024
+ DarbTech Team
+ Engagement in the digitization of the business process.
+PUTHOD, a company based in the Pays de Savoie region specializing in the landscaping services sector, has approached us to digitize its business processes and eliminate the manual completion and input...
+ Jan 28, 2024
+ DarbTech Team
+ Implementation of a lead and commercial offer tracking tool in Odoo CRM.
+CAMELEON, a company based in the Pays de Savoie region specializing in the creation of customized events for businesses, approached us to establish improved tracking for commercial teams spread across...
+ Jan 28, 2024
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

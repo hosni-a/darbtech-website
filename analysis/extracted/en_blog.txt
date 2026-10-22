@@ -1,0 +1,240 @@
+LANG en-US | TITLE Blog Posts | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Blog Posts | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/blog')
+META ('link-alternate', 'fr https://www.darbtech.net/blog')
+META ('link-alternate', 'x-default https://www.darbtech.net/blog')
+META ('link-canonical', ' https://www.darbtech.net/en/blog')
+HEADINGS:
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/blog', '')
+   ('/blog', '')
+   ('/en/contactus', 'Contact us')
+   ('/en/blog', 'All')
+   ('/en/blog/tech-odoo-3', 'Tech & Odoo')
+   ('/en/blog/client-cases-4', 'Client Cases')
+   ('/en/blog/actualites-5', 'Actualités')
+   ('/en/blog/success-stories-6', 'Success Stories')
+   ('/en/blog/business-management-1', 'Business Management')
+   ('', '')
+   ('/en/blog/business-management-1/foolproof-method-for-identifying-and-detecting-ai-subjects-that-can-be-implemented-in-business-roi-and-concrete-use-cases-73', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/foolproof-method-for-identifying-and-detecting-ai-subjects-that-can-be-implemented-in-business-roi-and-concrete-use-cases-73', 'Foolproof method for identifying and detecting AI subjects t')
+   ('/en/blog/business-management-1/foolproof-method-for-identifying-and-detecting-ai-subjects-that-can-be-implemented-in-business-roi-and-concrete-use-cases-73', '1. Identify operational intensive processes Start by mapping')
+   ('/en/blog/business-management-1/digital-resilience-as-a-cornerstone-of-business-continuity-why-odoo-is-a-strategic-asset-for-smes-72', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/digital-resilience-as-a-cornerstone-of-business-continuity-why-odoo-is-a-strategic-asset-for-smes-72', 'Digital Resilience as a Cornerstone of Business Continuity: ')
+   ('/en/blog/business-management-1/digital-resilience-as-a-cornerstone-of-business-continuity-why-odoo-is-a-strategic-asset-for-smes-72', 'Business resilience no longer relies solely on cash reserves')
+   ('/en/blog/client-cases-4/foolproof-method-to-identify-and-detect-ai-implementable-topics-for-smes-and-businesses-in-any-department-roi-and-concrete-use-cases-70', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/client-cases-4/foolproof-method-to-identify-and-detect-ai-implementable-topics-for-smes-and-businesses-in-any-department-roi-and-concrete-use-cases-70', 'Foolproof Method to Identify and Detect AI-Implementable Top')
+   ('/en/blog/client-cases-4/foolproof-method-to-identify-and-detect-ai-implementable-topics-for-smes-and-businesses-in-any-department-roi-and-concrete-use-cases-70', 'Artificial Intelligence (AI) presents major opportunities fo')
+   ('/en/blog/tech-odoo-3/advantages-and-limits-of-ai-in-business-a-double-edged-sword-69', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/tech-odoo-3/advantages-and-limits-of-ai-in-business-a-double-edged-sword-69', 'Advantages and Limits of AI in Business: A Double-Edged Swor')
+   ('/en/blog/tech-odoo-3/advantages-and-limits-of-ai-in-business-a-double-edged-sword-69', 'Artificial intelligence (AI) has become an indispensable too')
+   ('/en/blog/tech-odoo-3/managing-digital-transformation-and-developing-an-odoo-erp-with-lean-processes-68', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/tech-odoo-3/managing-digital-transformation-and-developing-an-odoo-erp-with-lean-processes-68', 'Managing Digital Transformation and Developing an Odoo ERP w')
+   ('/en/blog/tech-odoo-3/managing-digital-transformation-and-developing-an-odoo-erp-with-lean-processes-68', 'Digital transformation is a strategic imperative for compani')
+   ('/en/blog/business-management-1/taylorization-and-digitalization-of-business-processes-advantages-disadvantages-and-examples-67', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/taylorization-and-digitalization-of-business-processes-advantages-disadvantages-and-examples-67', 'Taylorization and Digitalization of Business Processes: Adva')
+   ('/en/blog/business-management-1/taylorization-and-digitalization-of-business-processes-advantages-disadvantages-and-examples-67', 'Taylorization, a concept introduced by Frederick Winslow Tay')
+   ('/en/blog/tech-odoo-3/transitioning-from-best-of-breeds-or-low-code-to-an-erp-system-like-odoo-a-comprehensive-guide-63', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/tech-odoo-3/transitioning-from-best-of-breeds-or-low-code-to-an-erp-system-like-odoo-a-comprehensive-guide-63', 'Transitioning from Best of Breeds or Low-Code to an ERP Syst')
+   ('/en/blog/tech-odoo-3/transitioning-from-best-of-breeds-or-low-code-to-an-erp-system-like-odoo-a-comprehensive-guide-63', 'Many companies find themselves at a crossroads: continue pie')
+   ('/en/blog/tech-odoo-3/leveraging-ai-in-recruitment-enhancing-efficiency-empowering-resources-and-boosting-revenues-64', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/tech-odoo-3/leveraging-ai-in-recruitment-enhancing-efficiency-empowering-resources-and-boosting-revenues-64', 'Leveraging AI in Recruitment: Enhancing Efficiency, Empoweri')
+   ('/en/blog/tech-odoo-3/leveraging-ai-in-recruitment-enhancing-efficiency-empowering-resources-and-boosting-revenues-64', 'Companies are continually seeking ways to enhance efficiency')
+   ('/en/blog/tech-odoo-3/transforming-manufacturing-with-ai-top-5-implementations-to-boost-efficiency-and-revenues-65', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/tech-odoo-3/transforming-manufacturing-with-ai-top-5-implementations-to-boost-efficiency-and-revenues-65', 'Transforming Manufacturing with AI: Top 5 Implementations to')
+   ('/en/blog/tech-odoo-3/transforming-manufacturing-with-ai-top-5-implementations-to-boost-efficiency-and-revenues-65', 'Artificial Intelligence (AI) is revolutionizing the manufact')
+   ('/en/blog/tech-odoo-3/industries-where-ai-and-automation-can-significantly-assist-in-your-cumbersome-tasks-66', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/tech-odoo-3/industries-where-ai-and-automation-can-significantly-assist-in-your-cumbersome-tasks-66', 'Industries where AI and Automation can significantly assist ')
+   ('/en/blog/tech-odoo-3/industries-where-ai-and-automation-can-significantly-assist-in-your-cumbersome-tasks-66', 'Thanks to the accessibility of digitalization, imagine that ')
+   ('/en/blog/tech-odoo-3/odoo-the-cost-effective-erp-champion-for-smbs-accelerating-growth-and-competitiveness-57', 'DarbTech Team')
+   ('/en/blog/tech-odoo-3/odoo-the-cost-effective-erp-champion-for-smbs-accelerating-growth-and-competitiveness-57', 'Odoo: The Cost-Effective ERP Champion for SMBs Accelerating ')
+   ('/en/blog/tech-odoo-3/odoo-the-cost-effective-erp-champion-for-smbs-accelerating-growth-and-competitiveness-57', 'Small and Medium-sized Businesses (SMBs) face unique challen')
+   ('/en/blog/business-management-1/navigating-digital-transformation-key-kpis-to-measure-success-58', 'DarbTech SARL, Frédéric Phan')
+   ('/en/blog/business-management-1/navigating-digital-transformation-key-kpis-to-measure-success-58', 'Navigating Digital Transformation: Key KPIs to Measure Succe')
+   ('/en/blog/business-management-1/navigating-digital-transformation-key-kpis-to-measure-success-58', 'Introduction Digital transformation is more than just a buzz')
+   ('/en/blog', '1')
+   ('/en/blog/page/2', '2')
+   ('/en/blog/page/3', '3')
+   ('/en/blog/page/4', '4')
+   ('/en/blog/page/5', '5')
+   ('/en/blog/page/2', '')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/blog.post/57/author_avatar/Odoo:%20The%20Cost-Effective%20ERP%20Champion%20for%20SMBs%20Accelerating%20Growth', 'Odoo: The Cost-Effective ERP Champion for SMBs Accelerating Growth and Competitiveness')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+   FORM action=/en/blog
+     input name=search type=search req=False
+     input name=order type=hidden req=False
+     input name=tag type=hidden req=False
+     input name=date_begin type=hidden req=False
+     input name=date_end type=hidden req=False
+TEXT:
+
+ Blog Posts | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+Our Latest Posts
+ Blogs:
+ All
+ Tech & Odoo
+ Client Cases
+ Actualités
+ Success Stories
+ Business Management
+Blogs
+ All
+ Tech & Odoo
+ Client Cases
+ Actualités
+ Success Stories
+ Business Management
+---section ---
+ DarbTech SARL, Frédéric Phan
+ Foolproof method for identifying and detecting AI subjects that can be implemented in business: ROI and concrete use cases
+1. Identify operational intensive processes Start by mapping out repetitive, manual, error-prone, or time-consuming workflows. These are often: Customer relationship management (CRM) Accounting and in...
+ Feb 26, 2026
+ Business Management
+ DarbTech SARL, Frédéric Phan
+ Digital Resilience as a Cornerstone of Business Continuity: Why Odoo is a Strategic Asset for SMEs
+Business resilience no longer relies solely on cash reserves or product innovation. Digital resilience — the ability to adapt operations, reorganize resources, and maintain real-time visibility—has be...
+ Jul 25, 2025
+ Business Management
+ DarbTech SARL, Frédéric Phan
+ Foolproof Method to Identify and Detect AI-Implementable Topics for SMEs and Businesses in Any Department: ROI and Concrete Use Cases
+Artificial Intelligence (AI) presents major opportunities for SMEs and businesses of all sizes. However, many hesitate to adopt it due to a lack of clarity on use cases, feasibility, and, most importa...
+ Feb 4, 2025
+ Client Cases
+ DarbTech SARL, Frédéric Phan
+ Advantages and Limits of AI in Business: A Double-Edged Sword
+Artificial intelligence (AI) has become an indispensable tool in the business, helping players increase efficiency, improve decision-making, and reduce operational costs. However, adopting AI also bri...
+ Oct 24, 2024
+ Tech & Odoo
+ DarbTech SARL, Frédéric Phan
+ Managing Digital Transformation and Developing an Odoo ERP with Lean Processes
+Digital transformation is a strategic imperative for companies wishing to remain competitive in a constantly changing market. One of the main levers of this transformation is the implementation of an ...
+ Aug 14, 2024
+ Tech & Odoo
+ DarbTech SARL, Frédéric Phan
+ Taylorization and Digitalization of Business Processes: Advantages, Disadvantages and Examples
+Taylorization, a concept introduced by Frederick Winslow Taylor in the early 20th century, transformed industrial process management by introducing standardized work methods to improve efficiency and ...
+ Aug 14, 2024
+ Business Management
+ DarbTech SARL, Frédéric Phan
+ Transitioning from Best of Breeds or Low-Code to an ERP System like Odoo: A Comprehensive Guide
+Many companies find themselves at a crossroads: continue piecing together various best-of-breed solutions (Make.com, Zapier, Airtable, Trello, UIPath, etc…) or embrace a unified Enterprise Resource Pl...
+ Jun 28, 2024
+ Tech & Odoo
+ DarbTech SARL, Frédéric Phan
+ Leveraging AI in Recruitment: Enhancing Efficiency, Empowering Resources, and Boosting Revenues
+Companies are continually seeking ways to enhance efficiency, empower their teams, and drive revenue growth. Artificial Intelligence (AI) is proving to be a game-changer in this domain, offering solut...
+ Jun 28, 2024
+ Tech & Odoo
+ DarbTech SARL, Frédéric Phan
+ Transforming Manufacturing with AI: Top 5 Implementations to Boost Efficiency and Revenues
+Artificial Intelligence (AI) is revolutionizing the manufacturing industry by enhancing efficiency, empowering resources, and driving revenue growth. From predictive maintenance to quality control, AI...
+ Jun 28, 2024
+ Tech & Odoo
+ DarbTech SARL, Frédéric Phan
+ Industries where AI and Automation can significantly assist in your cumbersome tasks
+Thanks to the accessibility of digitalization, imagine that Automation and AI free yourself and your teams from repetitive and cumbersome tasks, which require long data entry and manipulation processe...
+ Jun 28, 2024
+ Tech & Odoo
+ DarbTech Team
+ Odoo: The Cost-Effective ERP Champion for SMBs Accelerating Growth and Competitiveness
+Small and Medium-sized Businesses (SMBs) face unique challenges that demand efficient, scalable, and cost-effective solutions. Odoo steps in as a comprehensive suite of business applications and an En...
+ Jun 9, 2024
+ Tech & Odoo
+ DarbTech SARL, Frédéric Phan
+ Navigating Digital Transformation: Key KPIs to Measure Success
+Introduction Digital transformation is more than just a buzzword; it's a strategic necessity in today's technology-driven world. As organizations strive to improve efficiency, increase customer satisf...
+ May 16, 2024
+ Business Management
+ 1
+ 2
+ 3
+ 4
+ 5
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

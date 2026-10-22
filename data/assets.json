@@ -1,0 +1,1350 @@
+{
+ "_meta": {
+  "generated": "2026-10-22",
+  "notes": "local_path is relative to data/. used_in = lang:pageKey#sectionId."
+ },
+ "assets": [
+  {
+   "id": "brand/logo",
+   "category": "brand",
+   "original_url": "https://www.darbtech.net/web/image/website/1/logo/DarbTech?unique=a054b97",
+   "local_path": "assets/brand/logo.png",
+   "alt": {
+    "fr": "DarbTech",
+    "en": "DarbTech"
+   },
+   "used_in": [
+    "fr:_site#header",
+    "en:_site#header"
+   ],
+   "content_type": "image/png",
+   "bytes": 33505,
+   "sha1": "e686454cf3a1a9a438b5d50ad0cc1fd18874a065"
+  },
+  {
+   "id": "brand/favicon",
+   "category": "brand",
+   "original_url": "https://www.darbtech.net/web/image/website/1/favicon?unique=a054b97",
+   "local_path": "assets/brand/favicon.ico",
+   "alt": {},
+   "used_in": [
+    "fr:_site#head",
+    "en:_site#head"
+   ],
+   "content_type": "image/vnd.microsoft.icon",
+   "bytes": 8551,
+   "sha1": "19719e5442d5db1ce009d33cc92d4ab952428024"
+  },
+  {
+   "id": "pages/25834377-7124027",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7223-3eacca57/25834377_7124027.jpg",
+   "local_path": "assets/pages/25834377-7124027.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s4",
+    "en:aboutus#s4"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 62221,
+   "sha1": "3eacca5714dff9ca389294c55602ec1ee04526e7"
+  },
+  {
+   "id": "pages/33756690-8104960",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7220-0d6cc406/33756690_8104960.jpg",
+   "local_path": "assets/pages/33756690-8104960.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s4",
+    "en:aboutus#s4"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 51788,
+   "sha1": "0d6cc406cc60bddd13573c8cb6380a8f9b316b5a"
+  },
+  {
+   "id": "pages/3147290-972",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/15563-9d6168de/3147290_972.jpg",
+   "local_path": "assets/pages/3147290-972.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s5",
+    "en:aboutus#s5"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 152232,
+   "sha1": "9d6168deb5fc7ec575eb8eb1036c8254a53e75f5"
+  },
+  {
+   "id": "pages/engagement",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7364-11d45b1c/engagement.png",
+   "local_path": "assets/pages/engagement.png",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s5",
+    "en:aboutus#s5"
+   ],
+   "content_type": "image/png",
+   "bytes": 213578,
+   "sha1": "11d45b1c3ac94ac35b51a070a88548156b3e61d2"
+  },
+  {
+   "id": "team/fred",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28939-f8fa0209/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_59_19.svg",
+   "local_path": "assets/team/fred.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 33960,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "6435863e4472c141949c4d7a6f4c674b5b36242e"
+  },
+  {
+   "id": "team/viet",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28938-7d9fe22b/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_01_03.svg",
+   "local_path": "assets/team/viet.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 35972,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "1096cec06e7253bc12af09b492fb87ec05970241"
+  },
+  {
+   "id": "team/thomas",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28940-8d3a7175/ChatGPT%20Image%2015%20mai%202026%2C%2017_07_39.webp",
+   "local_path": "assets/team/thomas.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 33738,
+   "sha1": "8d3a717532d979709e90873c65aeb3aa44afa1b7"
+  },
+  {
+   "id": "team/maria",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28941-bda0213a/ChatGPT%20Image%2018%20mai%202026%2C%2015_47_06.webp",
+   "local_path": "assets/team/maria.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 34994,
+   "sha1": "bda0213a96f6e01d7ea87bc0b6c6f719e13ae614"
+  },
+  {
+   "id": "team/frederic",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28942-e0da9b9d/ChatGPT%20Image%2018%20mai%202026%2C%2015_45_28.webp",
+   "local_path": "assets/team/frederic.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 28898,
+   "sha1": "e0da9b9d9e5cd9d26698f1100fd85872a967313f"
+  },
+  {
+   "id": "team/marwa",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28951-3ab4e840/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_53_30.svg",
+   "local_path": "assets/team/marwa.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 20510,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "2feb9a21baa6f00b519dd12f15ad156b7e591470"
+  },
+  {
+   "id": "team/anis",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28943-2a8f1a40/129e1711-ec6d-415e-84e0-1ef3de5b8c8e.webp",
+   "local_path": "assets/team/anis.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 35296,
+   "sha1": "2a8f1a4014c0bdbeebe32aac95ebe5a98d21b8a3"
+  },
+  {
+   "id": "team/fatima-zahra",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28952-b5330ae3/ChatGPT%20Image%2015%20mai%202026%2C%2017_08_52.webp",
+   "local_path": "assets/team/fatima-zahra.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 23596,
+   "sha1": "b5330ae3314978e690cf7cf49a03e407e754f8ff"
+  },
+  {
+   "id": "team/hosni",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28964-04b07585/ChatGPT%20Image%2015%20mai%202026%2C%2017_12_08.webp",
+   "local_path": "assets/team/hosni.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 42382,
+   "sha1": "04b07585d5fc080564686444f93602ac295c0bf5"
+  },
+  {
+   "id": "team/abdellatif",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28953-d9091500/ChatGPT%2520Image%252015%2520mai%25202026%252C%252015_23_37.svg",
+   "local_path": "assets/team/abdellatif.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 43560,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "847a851a4a12b0c6de30d4a53c1a81b4454df21b"
+  },
+  {
+   "id": "team/zoubida",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28945-9bfa0565/ChatGPT%20Image%2015%20mai%202026%2C%2017_04_06.webp",
+   "local_path": "assets/team/zoubida.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 94898,
+   "sha1": "9bfa0565ecf50e19a6716bb11c5f4bffcdef643e"
+  },
+  {
+   "id": "team/khadija-a",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28961-abf95afc/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_55_59.svg",
+   "local_path": "assets/team/khadija-a.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 43458,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "da527737d31ed8aa719bc623af30ecdd9f48a233"
+  },
+  {
+   "id": "team/hatim",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28959-3e4bcebc/ChatGPT%2520Image%252018%2520mai%25202026%252C%252016_47_28.svg",
+   "local_path": "assets/team/hatim.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 19924,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "613747447ee844007cd519271f3ff403f7fb45c5"
+  },
+  {
+   "id": "team/khadija-r",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28954-93df6049/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_50_47.svg",
+   "local_path": "assets/team/khadija-r.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 56120,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "6bd0ef21ad0e30dfa97382a559c6a6297e6eaa85"
+  },
+  {
+   "id": "team/mohammed",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28955-ea1cac58/ChatGPT%2520Image%252015%2520mai%25202026%252C%252015_21_28.svg",
+   "local_path": "assets/team/mohammed.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 76986,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "bfca32fa561d110a51b5a7b0640699d3b2723187"
+  },
+  {
+   "id": "team/salma",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28966-f7df65e5/ChatGPT%20Image%2015%20mai%202026%2C%2017_02_30.webp",
+   "local_path": "assets/team/salma.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 47584,
+   "sha1": "f7df65e5e5ecec493445e4cd539db9317312d008"
+  },
+  {
+   "id": "team/ouail",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28965-ff05cd8f/ChatGPT%20Image%2015%20mai%202026%2C%2017_14_33.webp",
+   "local_path": "assets/team/ouail.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 22048,
+   "sha1": "ff05cd8fe44770ab4d722bca30c1d5ace20b717a"
+  },
+  {
+   "id": "team/kamal",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/28944-56d8ca3c/ChatGPT%20Image%2015%20mai%202026%2C%2017_06_28.webp",
+   "local_path": "assets/team/kamal.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 65144,
+   "sha1": "56d8ca3ca465eb8dd0aaa453eb26599a36c14dff"
+  },
+  {
+   "id": "team/elmehdi",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/33715-5cb0abba/WhatsApp%20Image%202026-09-21%20at%2012.03.52.webp",
+   "local_path": "assets/team/elmehdi.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 38118,
+   "sha1": "5cb0abbaf5a5815b04a7463b6ba8f31c275ad68d"
+  },
+  {
+   "id": "team/douae",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/33719-531c26d0/1789986184508%281%29%20%28Phone%29.webp",
+   "local_path": "assets/team/douae.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 8262,
+   "sha1": "531c26d0b95b1c12eb9c934b37e3286cd32a46f3"
+  },
+  {
+   "id": "team/sally",
+   "category": "team",
+   "original_url": "https://www.darbtech.net/web/image/33983-a917a51b/file_000000008b1c8210a5c5b86006a017bd.webp",
+   "local_path": "assets/team/sally.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s7",
+    "en:aboutus#s7"
+   ],
+   "content_type": "image/webp",
+   "bytes": 36772,
+   "sha1": "a917a51b8e081f55c7f5bb4574b6cc229f200471"
+  },
+  {
+   "id": "partners/odoo-logo-svg",
+   "category": "partners",
+   "original_url": "https://www.darbtech.net/web/image/15542-90e1d5f7/Odoo_logo.svg.webp",
+   "local_path": "assets/partners/odoo-logo-svg.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s9",
+    "en:aboutus#s9"
+   ],
+   "content_type": "image/webp",
+   "bytes": 12434,
+   "sha1": "90e1d5f7864577f690bda4d628007f9ee6cf58cc"
+  },
+  {
+   "id": "partners/logo-ringover",
+   "category": "partners",
+   "original_url": "https://www.darbtech.net/web/image/17616-c3c2f4c5/logo%20ringover.png",
+   "local_path": "assets/partners/logo-ringover.png",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s9",
+    "en:aboutus#s9"
+   ],
+   "content_type": "image/png",
+   "bytes": 3170,
+   "sha1": "c3c2f4c5adfe0593b3089e7300bd4aba02f3efdc"
+  },
+  {
+   "id": "partners/leexi",
+   "category": "partners",
+   "original_url": "https://www.darbtech.net/web/image/26261-56437d8a/leexi.webp",
+   "local_path": "assets/partners/leexi.webp",
+   "alt": {},
+   "used_in": [
+    "fr:aboutus#s9",
+    "en:aboutus#s9"
+   ],
+   "content_type": "image/webp",
+   "bytes": 10418,
+   "sha1": "56437d8ac23c6f7e812c8b2e5231bfe1a1d6aaef"
+  },
+  {
+   "id": "pages/whatsapp-image-2023-11-10-at-12-02-46-pm",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7637-75e4d9c0/WhatsApp%20Image%202023-11-10%20at%2012.02.46%20PM.jpeg",
+   "local_path": "assets/pages/whatsapp-image-2023-11-10-at-12-02-46-pm.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:devops#s2",
+    "en:devops#s2"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 28963,
+   "sha1": "75e4d9c00be96aa212d41d4be6a82b6d7a72563c"
+  },
+  {
+   "id": "pages/whatsapp-image-2023-11-10-at-12-02-52-pm",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7638-f894a698/WhatsApp%20Image%202023-11-10%20at%2012.02.52%20PM.jpeg",
+   "local_path": "assets/pages/whatsapp-image-2023-11-10-at-12-02-52-pm.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:devops#s5",
+    "en:devops#s5"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 30112,
+   "sha1": "f894a698731c473186291148c83a97f7ec6fe780"
+  },
+  {
+   "id": "pages/25644134-7015971",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7620-99c389ae/25644134_7015971.jpg",
+   "local_path": "assets/pages/25644134-7015971.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:integrateurdelogiciel#s2",
+    "en:integrateurdelogiciel#s2"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 32994,
+   "sha1": "99c389ae83aeef42fc582bfdcaee91f6692dbe95"
+  },
+  {
+   "id": "pages/25225479-7016016",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7622-0318c807/25225479_7016016.jpg",
+   "local_path": "assets/pages/25225479-7016016.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:integrateurdelogiciel#s3",
+    "en:integrateurdelogiciel#s3"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 30460,
+   "sha1": "0318c807739a8619df3e036e1f2a55f85748945d"
+  },
+  {
+   "id": "pages/business-man-financial-inspector-secretary-making",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7214-a89c0377/business-man-financial-inspector-secretary-making-report-calculating-checking-balance-internal-revenue-service-inspector-checking-document-audit-concept.jpg",
+   "local_path": "assets/pages/business-man-financial-inspector-secretary-making.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s1",
+    "en:services#s1"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 67623,
+   "sha1": "a89c0377db5af4de52ea484a4aacc6ca88f53dff"
+  },
+  {
+   "id": "pages/25834377-7124027-2",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7179-52145efc/25834377_7124027.svg",
+   "local_path": "assets/pages/25834377-7124027-2.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s2",
+    "en:services#s2"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 39986,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "9d79bc0a76f1ebea132d7abb6dc9e2f3268a63d4"
+  },
+  {
+   "id": "pages/laptop-with-internet-browser-search-bar-screen-1",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7391-591d6a68/laptop-with-internet-browser-search-bar-screen%20%281%29.jpg",
+   "local_path": "assets/pages/laptop-with-internet-browser-search-bar-screen-1.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s4",
+    "en:services#s4"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 47776,
+   "sha1": "591d6a685efc7e34441d2d67cd3596f12a17750e"
+  },
+  {
+   "id": "pages/closeup-programmer-man-hand-typing-website-script",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7389-99093273/closeup-programmer-man-hand-typing-website-script-computer-working-remote-from-home-african-american-hacker-worker-programming-binary-code-using-network-security-system-concept-coding%20%281%29.jpg",
+   "local_path": "assets/pages/closeup-programmer-man-hand-typing-website-script.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s5",
+    "en:services#s5"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 44461,
+   "sha1": "990932734c1f2da432d45af5e4ade3249410bb1c"
+  },
+  {
+   "id": "pages/whatsapp-20image-202023-11-10-20at-2012",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7185-f99e1aaf/WhatsApp%2520Image%25202023-11-10%2520at%252012.svg",
+   "local_path": "assets/pages/whatsapp-image-2023-11-10-at-12-02-52-pm.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s6",
+    "en:services#s6"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 30112,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper; identical to pages/whatsapp-image-2023-11-10-at-12-02-52-pm",
+   "sha1": "f894a698731c473186291148c83a97f7ec6fe780"
+  },
+  {
+   "id": "pages/36806",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7187-cf19afa5/36806.jpg",
+   "local_path": "assets/pages/36806.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s8",
+    "en:services#s8"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 131918,
+   "sha1": "cf19afa5c7494d7615d5cb067baec4106d7f71d5"
+  },
+  {
+   "id": "pages/person-front-computer-working-html",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7186-1be2b0e9/person-front-computer-working-html.jpg",
+   "local_path": "assets/pages/person-front-computer-working-html.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s8",
+    "en:services#s8"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 112189,
+   "sha1": "1be2b0e9e4452b152c30257118a717a3cb2f9d0b"
+  },
+  {
+   "id": "pages/businessman-with-bulb-made-gears",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7190-d10ab563/businessman-with-bulb-made-gears.jpg",
+   "local_path": "assets/pages/businessman-with-bulb-made-gears.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s10",
+    "en:services#s10"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 114301,
+   "sha1": "d10ab56369bff5b75df11e4a398fd88060a9a30a"
+  },
+  {
+   "id": "clients/logo-netiwan",
+   "category": "clients",
+   "original_url": "https://www.darbtech.net/web/image/7276-2af9beb9/Logo%20netiwan.png",
+   "local_path": "assets/clients/logo-netiwan.png",
+   "alt": {},
+   "used_in": [
+    "fr:services#s11",
+    "en:services#s11"
+   ],
+   "content_type": "image/png",
+   "bytes": 7911,
+   "sha1": "2af9beb9891a6cc467097f334bd55fb1c7c4f3a8"
+  },
+  {
+   "id": "clients/logo-cmt-company",
+   "category": "clients",
+   "original_url": "https://www.darbtech.net/web/image/7277-0bc206b7/Logo%20-%20CMT%20company.png",
+   "local_path": "assets/clients/logo-cmt-company.png",
+   "alt": {},
+   "used_in": [
+    "fr:services#s11",
+    "en:services#s11"
+   ],
+   "content_type": "image/png",
+   "bytes": 6819,
+   "sha1": "0bc206b7818a8c8484b0610411419c0c4420c9eb"
+  },
+  {
+   "id": "clients/logo-puthod",
+   "category": "clients",
+   "original_url": "https://www.darbtech.net/web/image/7283-fa426262/Logo_Puthod.jpg",
+   "local_path": "assets/clients/logo-puthod.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:services#s11",
+    "en:services#s11"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 11903,
+   "sha1": "fa426262c234603b08e17db7d1541d0af703a11a"
+  },
+  {
+   "id": "clients/1-logo-original",
+   "category": "clients",
+   "original_url": "https://www.darbtech.net/web/image/7279-634d1c68/1.%20Logo%20original.png",
+   "local_path": "assets/clients/1-logo-original.png",
+   "alt": {},
+   "used_in": [
+    "fr:services#s11",
+    "en:services#s11"
+   ],
+   "content_type": "image/png",
+   "bytes": 25114,
+   "sha1": "634d1c68e8b91a2e33c6051da64dd2125b43220e"
+  },
+  {
+   "id": "clients/acsp-conseil",
+   "category": "clients",
+   "original_url": "https://www.darbtech.net/web/image/7280-6965595f/ACSP%20CONSEIL.png",
+   "local_path": "assets/clients/acsp-conseil.png",
+   "alt": {},
+   "used_in": [
+    "fr:services#s11",
+    "en:services#s11"
+   ],
+   "content_type": "image/png",
+   "bytes": 20792,
+   "sha1": "6965595f2aa0cb763aa5a287e6a278184dac64c6"
+  },
+  {
+   "id": "clients/logo-tionis",
+   "category": "clients",
+   "original_url": "https://www.darbtech.net/web/image/7281-17d4f696/Logo%20Tionis.png",
+   "local_path": "assets/clients/logo-tionis.png",
+   "alt": {},
+   "used_in": [
+    "fr:services#s11",
+    "en:services#s11"
+   ],
+   "content_type": "image/png",
+   "bytes": 4538,
+   "sha1": "17d4f6968608090ea6d914404d9bfc41b48c71d6"
+  },
+  {
+   "id": "pages/11669313-20945894-1",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7258-3b77f40d/11669313_20945894%20%281%29.jpg",
+   "local_path": "assets/pages/11669313-20945894-1.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:home#s1",
+    "en:home#s1"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 38628,
+   "sha1": "3b77f40d7da7d36743a2c7c036d1bbc435a48291"
+  },
+  {
+   "id": "pages/campaign-creators-gmsnxqiljp4-unsplash",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7145-1768ec64/campaign-creators-gMsnXqILjp4-unsplash.jpg",
+   "local_path": "assets/pages/campaign-creators-gmsnxqiljp4-unsplash.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:home#s2",
+    "en:home#s2"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 89213,
+   "sha1": "1768ec649bda701dc9ac527c9e5ee0c9ffcae349"
+  },
+  {
+   "id": "pages/8459338",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7144-e9eef492/8459338.jpg",
+   "local_path": "assets/pages/8459338.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:home#s3",
+    "en:home#s3"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 33297,
+   "sha1": "e9eef492555fa8211aacc150a4091861f67716d5"
+  },
+  {
+   "id": "pages/36806-2",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7183-cf19afa5/36806.jpg",
+   "local_path": "assets/pages/36806.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:home#s4",
+    "en:home#s4"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 131918,
+   "note": "identical to pages/36806",
+   "sha1": "cf19afa5c7494d7615d5cb067baec4106d7f71d5"
+  },
+  {
+   "id": "pages/person-front-computer-working-html-2",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7162-1be2b0e9/person-front-computer-working-html.jpg",
+   "local_path": "assets/pages/person-front-computer-working-html.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:home#s4",
+    "en:home#s4"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 112189,
+   "note": "identical to pages/person-front-computer-working-html",
+   "sha1": "1be2b0e9e4452b152c30257118a717a3cb2f9d0b"
+  },
+  {
+   "id": "pages/fotis-fotopoulos-lj9ky8pih3e-unsplash",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7160-61b8dc71/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.svg",
+   "local_path": "assets/pages/fotis-fotopoulos-lj9ky8pih3e-unsplash.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:home#s5",
+    "en:home#s5"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 41551,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "cfb01c0c52168abb2d43c3f425d363461d934434"
+  },
+  {
+   "id": "pages/group-people-working-out-business-plan-office",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7163-c50e6168/group-people-working-out-business-plan-office.svg",
+   "local_path": "assets/pages/group-people-working-out-business-plan-office.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:home#s5",
+    "en:home#s5"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 51958,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "4ade45edb5538ac39906d0fbb7ba4256c582ccf6"
+  },
+  {
+   "id": "pages/top-view-workmates-talking-about-bar-chart",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/7161-5f221a97/top-view-workmates-talking-about-bar-chart.svg",
+   "local_path": "assets/pages/top-view-workmates-talking-about-bar-chart.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:home#s6",
+    "en:home#s6"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 49769,
+   "note": "raster extracted from Odoo shape-masked SVG wrapper",
+   "sha1": "94a3b62254911b705e1c63c0ee90c6050c92eff4"
+  },
+  {
+   "id": "pages/job-image-9",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/website_hr_recruitment/static/src/img/job_image_9.jpg",
+   "local_path": "assets/pages/job-image-9.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6",
+    "en:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 98391,
+   "sha1": "084546d4382849b267d28c38951c0a134f6cd15b"
+  },
+  {
+   "id": "pages/job-image-10",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/website_hr_recruitment/static/src/img/job_image_10.jpg",
+   "local_path": "assets/pages/job-image-10.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6",
+    "en:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 90316,
+   "sha1": "f1c9ce25797591527a2934242184f16965f78205"
+  },
+  {
+   "id": "pages/job-image-11",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/website_hr_recruitment/static/src/img/job_image_11.jpg",
+   "local_path": "assets/pages/job-image-11.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6",
+    "en:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 101525,
+   "sha1": "d296641209313b7e4b5116457225321ac9b05c18"
+  },
+  {
+   "id": "pages/job-image-12",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/website_hr_recruitment/static/src/img/job_image_12.jpg",
+   "local_path": "assets/pages/job-image-12.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6",
+    "en:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 102102,
+   "sha1": "1aadd8f593d6eafb597d6b08bf6c9e8388931e79"
+  },
+  {
+   "id": "pages/job-image-13",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/website_hr_recruitment/static/src/img/job_image_13.jpg",
+   "local_path": "assets/pages/job-image-13.jpg",
+   "alt": {},
+   "used_in": [
+    "fr:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6",
+    "en:jobs__charge-e-de-mission-commerciale-et-administrative-12#s6"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 95276,
+   "sha1": "745c0bea427587a7c09ae7ff7ce9bdeeb8aadc65"
+  },
+  {
+   "id": "pages/asilahdt2023",
+   "category": "pages",
+   "original_url": "https://www.darbtech.net/web/image/10546-38ee87e4/AsilahDT2023.webp",
+   "local_path": "assets/pages/asilahdt2023.webp",
+   "alt": {},
+   "used_in": [
+    "fr:jobs#s3",
+    "en:jobs#s3"
+   ],
+   "content_type": "image/webp",
+   "bytes": 36536,
+   "sha1": "38ee87e42b851143653f79d74617a164babb8cec"
+  },
+  {
+   "id": "blog/post-70-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/11425-9422a9d5/Article%20de%20blog%20%27Tirer%20parti%20de%20l%27IA%20dans%20le%20recrutement%20%3A%20am%C3%A9liorer%20l%27efficacit%C3%A9%2C%20responsabiliser%20les%20ressources%20et%20augmenter%20le%20chiffre%20d%E2%80%99affaires%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-70-cover.webp",
+   "alt": {
+    "fr": "Méthode infaillible pour identifier et détecter des sujets IA implémentables en entreprise : ROI et cas d’usage concrets",
+    "en": "Foolproof Method to Identify and Detect AI-Implementable Topics for SMEs and Businesses in Any Department: ROI and Concrete Use Cases"
+   },
+   "used_in": [
+    "fr:blog__cas-clients-4__methode-infaillible-pour-identifier-et-detecter-des-sujets-ia-implementables-en-entreprise-roi-et-cas-d-usage-concrets-70#cover",
+    "en:blog__cas-clients-4__methode-infaillible-pour-identifier-et-detecter-des-sujets-ia-implementables-en-entreprise-roi-et-cas-d-usage-concrets-70#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 54412,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "9422a9d5851f88f72201dce505a488a540a62993",
+   "downloaded_from": "https://www.darbtech.net/web/image/11425-9422a9d5/480x0/Article%20de%20blog%20%27Tirer%20parti%20de%20l%27IA%20dans%20le%20recrutement%20%3A%20am%C3%A9liorer%20l%27efficacit%C3%A9%2C%20responsabiliser%20les%20ressources%20et%20augmenter%20le%20chiffre%20d%E2%80%99affaires%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-20-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/8334-fd8800a5/pexels-photo-5922523.jpeg",
+   "local_path": "assets/blog/post-20-cover.jpg",
+   "alt": {
+    "fr": "Applicatifs d'Odoo dans la digitalisation des PME",
+    "en": "Odoo applications in the digitalization of SMEs"
+   },
+   "used_in": [
+    "fr:blog__cas-clients-4__applicatifs-d-odoo-dans-la-digitalisation-des-pme-20#cover",
+    "en:blog__cas-clients-4__applicatifs-d-odoo-dans-la-digitalisation-des-pme-20#cover"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 63858,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "b630872a3c0b8b8722df94bbe89fee940d62ef9c",
+   "downloaded_from": "https://www.darbtech.net/web/image/8334-fd8800a5/480x0/pexels-photo-5922523.jpeg"
+  },
+  {
+   "id": "blog/post-19-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/7216-0fb7ea93/399550472_367510165608191_5445947534457444139_n.jpg",
+   "local_path": "assets/blog/post-19-cover.jpg",
+   "alt": {
+    "fr": "Mise en place d'un outil de suivi des leads et offres commerciales",
+    "en": "Implementation of a lead and commercial offer tracking tool in Odoo CRM."
+   },
+   "used_in": [
+    "fr:blog__cas-clients-4__mise-en-place-d-un-outil-de-suivi-des-leads-et-offres-commerciales-19#cover",
+    "en:blog__cas-clients-4__mise-en-place-d-un-outil-de-suivi-des-leads-et-offres-commerciales-19#cover"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 72778,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "66c62213e83488668f636ff96f5b87cb24aa3bb6",
+   "downloaded_from": "https://www.darbtech.net/web/image/7216-0fb7ea93/480x0/399550472_367510165608191_5445947534457444139_n.jpg"
+  },
+  {
+   "id": "blog/post-18-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/7191-904a6bf1/tulip-field-keukenhof-gardens-lisse-netherlands%20%282%29.jpg",
+   "local_path": "assets/blog/post-18-cover.jpg",
+   "alt": {
+    "fr": "Immersion dans la digitalisation du processus métier.",
+    "en": "Engagement in the digitization of the business process."
+   },
+   "used_in": [
+    "fr:blog__cas-clients-4__immersion-dans-la-digitalisation-du-processus-metier-18#cover",
+    "en:blog__cas-clients-4__immersion-dans-la-digitalisation-du-processus-metier-18#cover"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 247031,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "001769edb126790c61ab9ad89d69d10aba553b2f",
+   "downloaded_from": "https://www.darbtech.net/web/image/7191-904a6bf1/480x0/tulip-field-keukenhof-gardens-lisse-netherlands%20%282%29.jpg"
+  },
+  {
+   "id": "blog/post-73-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/20551-d01b6331/1_QBzMX07sqsxC__JwQhvH5A.webp",
+   "local_path": "assets/blog/post-73-cover.webp",
+   "alt": {
+    "fr": "Méthode infaillible pour identifier et détecter des sujets IA implémentables en entreprise : ROI et cas d’usage concrets",
+    "en": "Foolproof method for identifying and detecting AI subjects that can be implemented in business: ROI and concrete use cases"
+   },
+   "used_in": [
+    "fr:blog__gestion-d-entreprise-1__methode-infaillible-pour-identifier-et-detecter-des-sujets-ia-implementables-en-entreprise-roi-et-cas-d-usage-concrets-73#cover",
+    "en:blog__gestion-d-entreprise-1__methode-infaillible-pour-identifier-et-detecter-des-sujets-ia-implementables-en-entreprise-roi-et-cas-d-usage-concrets-73#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 70264,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "d01b6331f2dae57bf81bf78b28d0316ef6a3b0b1",
+   "downloaded_from": "https://www.darbtech.net/web/image/20551-d01b6331/480x0/1_QBzMX07sqsxC__JwQhvH5A.webp"
+  },
+  {
+   "id": "blog/post-72-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/19983-14c8d9d4/Article%20de%20blog%20%27La%20r%C3%A9silience%20num%C3%A9rique%20comme%20pilier%20de%20la%20p%C3%A9rennit%C3%A9%20des%20PME%20%3A%20pourquoi%20Odoo%20est%20un%20atout%20strat%C3%A9gique%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-72-cover.webp",
+   "alt": {
+    "fr": "La résilience numérique comme pilier de la pérennité des PME : pourquoi Odoo est un atout stratégique",
+    "en": "Digital Resilience as a Cornerstone of Business Continuity: Why Odoo is a Strategic Asset for SMEs"
+   },
+   "used_in": [
+    "fr:blog__gestion-d-entreprise-1__la-resilience-numerique-comme-pilier-de-la-perennite-des-pme-pourquoi-odoo-est-un-atout-strategique-72#cover",
+    "en:blog__gestion-d-entreprise-1__la-resilience-numerique-comme-pilier-de-la-perennite-des-pme-pourquoi-odoo-est-un-atout-strategique-72#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 64684,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "14c8d9d401979246cbcba4f13096ee74acfa23b2",
+   "downloaded_from": "https://www.darbtech.net/web/image/19983-14c8d9d4/480x0/Article%20de%20blog%20%27La%20r%C3%A9silience%20num%C3%A9rique%20comme%20pilier%20de%20la%20p%C3%A9rennit%C3%A9%20des%20PME%20%3A%20pourquoi%20Odoo%20est%20un%20atout%20strat%C3%A9gique%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-67-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/11636-69d23a9e/Article%20de%20blog%20%27Taylorization%20and%20Digitalization%20of%20Business%20Processes%3A%20Advantages%2C%20Disadvantages%20and%20Examples%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-67-cover.webp",
+   "alt": {
+    "fr": "La Taylorisation et la Digitalisation des Processus Métiers : Avantages, Inconvénients et Exemples",
+    "en": "Taylorization and Digitalization of Business Processes: Advantages, Disadvantages and Examples"
+   },
+   "used_in": [
+    "fr:blog__gestion-d-entreprise-1__la-taylorisation-et-la-digitalisation-des-processus-metiers-avantages-inconvenients-et-exemples-67#cover",
+    "en:blog__gestion-d-entreprise-1__la-taylorisation-et-la-digitalisation-des-processus-metiers-avantages-inconvenients-et-exemples-67#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 38150,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "69d23a9e1a397b51f50f3efbac39ba0ed1a3b07f",
+   "downloaded_from": "https://www.darbtech.net/web/image/11636-69d23a9e/480x0/Article%20de%20blog%20%27Taylorization%20and%20Digitalization%20of%20Business%20Processes%3A%20Advantages%2C%20Disadvantages%20and%20Examples%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-58-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/10539-0d1b4531/businessman-drawing-keys-success.jpg",
+   "local_path": "assets/blog/post-58-cover.jpg",
+   "alt": {
+    "fr": "Naviguer dans la transformation numérique : principaux indicateurs de performance pour mesurer le succès",
+    "en": "Navigating Digital Transformation: Key KPIs to Measure Success"
+   },
+   "used_in": [
+    "fr:blog__gestion-d-entreprise-1__naviguer-dans-la-transformation-numerique-principaux-indicateurs-de-performance-pour-mesurer-le-succes-58#cover",
+    "en:blog__gestion-d-entreprise-1__naviguer-dans-la-transformation-numerique-principaux-indicateurs-de-performance-pour-mesurer-le-succes-58#cover"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 62898,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "e019a283689a69860eac7417fe6ce64a538b028b",
+   "downloaded_from": "https://www.darbtech.net/web/image/10539-0d1b4531/480x0/businessman-drawing-keys-success.jpg"
+  },
+  {
+   "id": "blog/post-69-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/13629-9d362f63/Article%20de%20blog%20%27Avantages%20et%20Limites%20de%20l%E2%80%99IA%20en%20Entreprise%3A%20Une%20%C3%A9p%C3%A9e%20%C3%A0%20double%20tranchant%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-69-cover.webp",
+   "alt": {
+    "fr": "Avantages et Limites de l’IA en Entreprise: Une épée à double tranchant",
+    "en": "Advantages and Limits of AI in Business: A Double-Edged Sword"
+   },
+   "used_in": [
+    "fr:blog__tech-odoo-3__avantages-et-limites-de-l-ia-en-entreprise-une-epee-a-double-tranchant-69#cover",
+    "en:blog__tech-odoo-3__avantages-et-limites-de-l-ia-en-entreprise-une-epee-a-double-tranchant-69#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 37204,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "9d362f631adf3420d88ca14407c30638bc69fa96",
+   "downloaded_from": "https://www.darbtech.net/web/image/13629-9d362f63/480x0/Article%20de%20blog%20%27Avantages%20et%20Limites%20de%20l%E2%80%99IA%20en%20Entreprise%3A%20Une%20%C3%A9p%C3%A9e%20%C3%A0%20double%20tranchant%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-68-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/11638-c40efc3e/Article%20de%20blog%20%27G%C3%A9rer%20la%20Transformation%20Digitale%20et%20D%C3%A9velopper%20un%20ERP%20Odoo%20avec%20des%20Processus%20Lean%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-68-cover.webp",
+   "alt": {
+    "fr": "Gérer la Transformation Digitale et Développer un ERP Odoo avec des Processus Lean",
+    "en": "Managing Digital Transformation and Developing an Odoo ERP with Lean Processes"
+   },
+   "used_in": [
+    "fr:blog__tech-odoo-3__gerer-la-transformation-digitale-et-developper-un-erp-odoo-avec-des-processus-lean-68#cover",
+    "en:blog__tech-odoo-3__gerer-la-transformation-digitale-et-developper-un-erp-odoo-avec-des-processus-lean-68#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 9214,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "c40efc3e46b947fa651c572b205af9a110f407e8",
+   "downloaded_from": "https://www.darbtech.net/web/image/11638-c40efc3e/480x0/Article%20de%20blog%20%27G%C3%A9rer%20la%20Transformation%20Digitale%20et%20D%C3%A9velopper%20un%20ERP%20Odoo%20avec%20des%20Processus%20Lean%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-66-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/11428-9939423e/Article%20de%20blog%20%27Secteurs%20o%C3%B9%20l%27IA%20et%20l%27automatisation%20peuvent%20vous%20aider%20de%20mani%C3%A8re%20significative%20dans%20les%20t%C3%A2ches%C2%A0p%C3%A9nibles%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-66-cover.webp",
+   "alt": {
+    "fr": "Secteurs où l'IA et l'automatisation peuvent vous aider de manière significative dans les tâches pénibles",
+    "en": "Industries where AI and Automation can significantly assist in your cumbersome tasks"
+   },
+   "used_in": [
+    "fr:blog__tech-odoo-3__secteurs-ou-l-ia-et-l-automatisation-peuvent-vous-aider-de-maniere-significative-dans-les-taches-penibles-66#cover",
+    "en:blog__tech-odoo-3__secteurs-ou-l-ia-et-l-automatisation-peuvent-vous-aider-de-maniere-significative-dans-les-taches-penibles-66#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 13888,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "9939423edca2342224268637fdc815e33d7aeed9",
+   "downloaded_from": "https://www.darbtech.net/web/image/11428-9939423e/480x0/Article%20de%20blog%20%27Secteurs%20o%C3%B9%20l%27IA%20et%20l%27automatisation%20peuvent%20vous%20aider%20de%20mani%C3%A8re%20significative%20dans%20les%20t%C3%A2ches%C2%A0p%C3%A9nibles%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-65-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/11427-0961c5db/Article%20de%20blog%20%27Transformer%20le%20secteur%20de%20la%20fabrication%20avec%20l%27IA%20:%20Top%205%20des%20mises%20en%20%C5%93uvre%20pour%20augmenter%20l%27efficacit%C3%A9%20et%20le%20chiffre%20d%27affaires%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-65-cover.webp",
+   "alt": {
+    "fr": "Transformer le secteur de la fabrication avec l'IA : Top 5 des mises en œuvre pour augmenter l'efficacité et le chiffre d'affaires",
+    "en": "Transforming Manufacturing with AI: Top 5 Implementations to Boost Efficiency and Revenues"
+   },
+   "used_in": [
+    "fr:blog__tech-odoo-3__transformer-le-secteur-de-la-fabrication-avec-l-ia-top-5-des-mises-en-œuvre-pour-augmenter-l-efficacite-et-le-chiffre-d-affaires-65#cover",
+    "en:blog__tech-odoo-3__transformer-le-secteur-de-la-fabrication-avec-l-ia-top-5-des-mises-en-œuvre-pour-augmenter-l-efficacite-et-le-chiffre-d-affaires-65#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 80064,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "0961c5db6230d979665d67664c727317c9611ee3",
+   "downloaded_from": "https://www.darbtech.net/web/image/11427-0961c5db/480x0/Article%20de%20blog%20%27Transformer%20le%20secteur%20de%20la%20fabrication%20avec%20l%27IA%20:%20Top%205%20des%20mises%20en%20%C5%93uvre%20pour%20augmenter%20l%27efficacit%C3%A9%20et%20le%20chiffre%20d%27affaires%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-64-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/11425-9422a9d5/Article%20de%20blog%20%27Tirer%20parti%20de%20l%27IA%20dans%20le%20recrutement%20:%20am%C3%A9liorer%20l%27efficacit%C3%A9%2C%20responsabiliser%20les%20ressources%20et%20augmenter%20le%20chiffre%20d%E2%80%99affaires%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-70-cover.webp",
+   "alt": {
+    "fr": "Tirer parti de l'IA dans le recrutement : améliorer l'efficacité, responsabiliser les ressources et augmenter le chiffre d’affaires",
+    "en": "Leveraging AI in Recruitment: Enhancing Efficiency, Empowering Resources, and Boosting Revenues"
+   },
+   "used_in": [
+    "fr:blog__tech-odoo-3__tirer-parti-de-l-ia-dans-le-recrutement-ameliorer-l-efficacite-responsabiliser-les-ressources-et-augmenter-le-chiffre-d-affaires-64#cover",
+    "en:blog__tech-odoo-3__tirer-parti-de-l-ia-dans-le-recrutement-ameliorer-l-efficacite-responsabiliser-les-ressources-et-augmenter-le-chiffre-d-affaires-64#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 54412,
+   "note": "resized by Odoo to 480px wide; original_url is full size; identical to blog/post-70-cover",
+   "sha1": "9422a9d5851f88f72201dce505a488a540a62993",
+   "downloaded_from": "https://www.darbtech.net/web/image/11425-9422a9d5/480x0/Article%20de%20blog%20%27Tirer%20parti%20de%20l%27IA%20dans%20le%20recrutement%20:%20am%C3%A9liorer%20l%27efficacit%C3%A9%2C%20responsabiliser%20les%20ressources%20et%20augmenter%20le%20chiffre%20d%E2%80%99affaires%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-63-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/11423-1980e933/Article%20de%20blog%20%27Guide%20complet%20pour%20transitionner%20d%27une%20interconnexion%20de%20syst%C3%A8mes%20vers%20un%20ERP%20int%C3%A9gr%C3%A9%20comme%20Odoo%27%20cover%20image.webp",
+   "local_path": "assets/blog/post-63-cover.webp",
+   "alt": {
+    "fr": "Guide complet pour transitionner d'une interconnexion de systèmes vers un ERP intégré comme Odoo",
+    "en": "Transitioning from Best of Breeds or Low-Code to an ERP System like Odoo: A Comprehensive Guide"
+   },
+   "used_in": [
+    "fr:blog__tech-odoo-3__guide-complet-pour-transitionner-d-une-interconnexion-de-systemes-vers-un-erp-integre-comme-odoo-63#cover",
+    "en:blog__tech-odoo-3__guide-complet-pour-transitionner-d-une-interconnexion-de-systemes-vers-un-erp-integre-comme-odoo-63#cover"
+   ],
+   "content_type": "image/webp",
+   "bytes": 65566,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "1980e933f05dc19506fe9b661ac2849320791688",
+   "downloaded_from": "https://www.darbtech.net/web/image/11423-1980e933/480x0/Article%20de%20blog%20%27Guide%20complet%20pour%20transitionner%20d%27une%20interconnexion%20de%20syst%C3%A8mes%20vers%20un%20ERP%20int%C3%A9gr%C3%A9%20comme%20Odoo%27%20cover%20image.webp"
+  },
+  {
+   "id": "blog/post-57-cover",
+   "category": "blog",
+   "original_url": "https://www.darbtech.net/web/image/9938-f54d96a8/1347.jpg",
+   "local_path": "assets/blog/post-57-cover.jpg",
+   "alt": {
+    "fr": "Odoo : L'ERP champion efficace pour les PME accélérant leur croissance et compétitivité",
+    "en": "Odoo: The Cost-Effective ERP Champion for SMBs Accelerating Growth and Competitiveness"
+   },
+   "used_in": [
+    "fr:blog__tech-odoo-3__odoo-l-erp-champion-efficace-pour-les-pme-accelerant-leur-croissance-et-competitivite-57#cover",
+    "en:blog__tech-odoo-3__odoo-l-erp-champion-efficace-pour-les-pme-accelerant-leur-croissance-et-competitivite-57#cover"
+   ],
+   "content_type": "image/jpeg",
+   "bytes": 30772,
+   "note": "resized by Odoo to 480px wide; original_url is full size",
+   "sha1": "8f6dfd727392b16c293d6b39d8f28c1f416e5f1f",
+   "downloaded_from": "https://www.darbtech.net/web/image/9938-f54d96a8/480x0/1347.jpg"
+  }
+ ],
+ "not_downloaded": {
+  "team bio-page photo (same person as about-us card photo)": [
+   "https://www.darbtech.net/web/image/28953-d9091500/ChatGPT%2520Image%252015%2520mai%25202026%252C%252015_23_37.svg",
+   "https://www.darbtech.net/web/image/28954-93df6049/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_50_47.svg",
+   "https://www.darbtech.net/web/image/28955-ea1cac58/ChatGPT%2520Image%252015%2520mai%25202026%252C%252015_21_28.svg",
+   "https://www.darbtech.net/web/image/28959-3e4bcebc/ChatGPT%2520Image%252018%2520mai%25202026%252C%252016_47_28.svg",
+   "https://www.darbtech.net/web/image/28961-abf95afc/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_55_59.svg",
+   "https://www.darbtech.net/web/image/28968-db551c3d/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_59_19.svg",
+   "https://www.darbtech.net/web/image/28971-dbe943ab/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_01_03.svg",
+   "https://www.darbtech.net/web/image/28972-cf702cc0/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_07_39.svg",
+   "https://www.darbtech.net/web/image/28973-e5c6994e/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_06_28.svg",
+   "https://www.darbtech.net/web/image/28974-d01dc8ac/ChatGPT%2520Image%252018%2520mai%25202026%252C%252015_47_06.svg",
+   "https://www.darbtech.net/web/image/28975-3643b749/ChatGPT%2520Image%252018%2520mai%25202026%252C%252015_45_28.svg",
+   "https://www.darbtech.net/web/image/28976-9cc60198/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_04_06.svg",
+   "https://www.darbtech.net/web/image/28977-5af5ba4f/129e1711-ec6d-415e-84e0-1ef3de5b8c8e.svg",
+   "https://www.darbtech.net/web/image/28978-3ca23aee/ChatGPT%2520Image%252015%2520mai%25202026%252C%252016_53_30.svg",
+   "https://www.darbtech.net/web/image/28979-88fb0740/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_12_08.svg",
+   "https://www.darbtech.net/web/image/28980-09269bf8/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_08_52.svg",
+   "https://www.darbtech.net/web/image/28981-3d42e1fc/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_14_33.svg",
+   "https://www.darbtech.net/web/image/28982-b78d357b/ChatGPT%2520Image%252015%2520mai%25202026%252C%252017_02_30.svg",
+   "https://www.darbtech.net/web/image/33714-af67c700/WhatsApp%20Image%202026-09-21%20at%2012.03.52.jpeg",
+   "https://www.darbtech.net/web/image/33720-a4eff965/1789986184508%281%29%20%28Phone%29.png",
+   "https://www.darbtech.net/web/image/33982-148dc7f2/file_000000008b1c8210a5c5b86006a017bd.png"
+  ],
+  "decorative theme shape": [
+   "https://www.darbtech.net/en/web_editor/shape/theme_cobalt/s_image_text.svg?c1=%230047BB",
+   "https://www.darbtech.net/en/web_editor/shape/theme_cobalt/s_text_image.svg?c1=%230047BB",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FBlobs%2F03.svg?c2=%23FFFFFF",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FBold%2F01.svg?c2=%23FFFFFF&flip=x",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FBold%2F01.svg?c2=%23FFFFFF&flip=y",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FOrigins%2F04_001.svg?c3=%23FFFFFF&flip=y",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FOrigins%2F11_001.svg?c3=%23003FA7&c4=%23FFFFFF&flip=y",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FOrigins%2F11_001.svg?c3=%230047BB&c4=%23F6F4F2&flip=y",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FOrigins%2F11_001.svg?c3=%230047BB&c4=%23FFFFFF&flip=y",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FOrigins%2F11_001.svg?c3=%23FFFFFF&c4=%23FFFFFF&flip=xy",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FOrigins%2F14_001.svg?c3=%23003FA7&c4=%23FFFFFF",
+   "https://www.darbtech.net/en/web_editor/shape/web_editor%2FOrigins%2F17.svg?c3=%23FFFFFF",
+   "https://www.darbtech.net/web_editor/shape/theme_cobalt/s_image_text.svg?c1=%230047BB",
+   "https://www.darbtech.net/web_editor/shape/theme_cobalt/s_text_image.svg?c1=%230047BB",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FBlobs%2F03.svg?c2=%23FFFFFF",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FBold%2F01.svg?c2=%23FFFFFF&flip=x",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FBold%2F01.svg?c2=%23FFFFFF&flip=y",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FOrigins%2F04_001.svg?c3=%23FFFFFF&flip=y",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FOrigins%2F11_001.svg?c3=%23003FA7&c4=%23FFFFFF&flip=y",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FOrigins%2F11_001.svg?c3=%230047BB&c4=%23F6F4F2&flip=y",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FOrigins%2F11_001.svg?c3=%230047BB&c4=%23FFFFFF&flip=y",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FOrigins%2F11_001.svg?c3=%23FFFFFF&c4=%23FFFFFF&flip=xy",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FOrigins%2F14_001.svg?c3=%23003FA7&c4=%23FFFFFF",
+   "https://www.darbtech.net/web_editor/shape/web_editor%2FOrigins%2F17.svg?c3=%23FFFFFF"
+  ],
+  "Odoo snippet placeholder image": [
+   "https://www.darbtech.net/web/image/7260-74b603c9/website.s_banner_default_image",
+   "https://www.darbtech.net/web/image/7619-69a4f4ec/s_text_cover_default_image.jpg",
+   "https://www.darbtech.net/web/image/website.s_picture_default_image",
+   "https://www.darbtech.net/web/image/website.s_text_cover_default_image",
+   "https://www.darbtech.net/web/image/website.s_three_columns_default_image_1",
+   "https://www.darbtech.net/web/image/website.s_three_columns_default_image_2"
+  ],
+  "Odoo stock placeholder image": [
+   "https://www.darbtech.net/web/image/7261-23c9ce4f/website.library_image_05",
+   "https://www.darbtech.net/web/image/7262-59595125/website.library_image_14",
+   "https://www.darbtech.net/web/image/website.library_image_03",
+   "https://www.darbtech.net/web/image/website.library_image_10",
+   "https://www.darbtech.net/web/image/website.library_image_13",
+   "https://www.darbtech.net/web/image/website.library_image_16"
+  ],
+  "blog article inline image (not downloaded)": [
+   "https://www.darbtech.net/web/image/10539-0d1b4531/businessman-drawing-keys-success.jpg",
+   "https://www.darbtech.net/web/image/11423-1980e933/Article%20de%20blog%20%27Guide%20complet%20pour%20transitionner%20d%27une%20interconnexion%20de%20syst%C3%A8mes%20vers%20un%20ERP%20int%C3%A9gr%C3%A9%20comme%20Odoo%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/11425-9422a9d5/Article%20de%20blog%20%27Tirer%20parti%20de%20l%27IA%20dans%20le%20recrutement%20%3A%20am%C3%A9liorer%20l%27efficacit%C3%A9%2C%20responsabiliser%20les%20ressources%20et%20augmenter%20le%20chiffre%20d%E2%80%99affaires%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/11425-9422a9d5/Article%20de%20blog%20%27Tirer%20parti%20de%20l%27IA%20dans%20le%20recrutement%20:%20am%C3%A9liorer%20l%27efficacit%C3%A9%2C%20responsabiliser%20les%20ressources%20et%20augmenter%20le%20chiffre%20d%E2%80%99affaires%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/11427-0961c5db/Article%20de%20blog%20%27Transformer%20le%20secteur%20de%20la%20fabrication%20avec%20l%27IA%20:%20Top%205%20des%20mises%20en%20%C5%93uvre%20pour%20augmenter%20l%27efficacit%C3%A9%20et%20le%20chiffre%20d%27affaires%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/11428-9939423e/Article%20de%20blog%20%27Secteurs%20o%C3%B9%20l%27IA%20et%20l%27automatisation%20peuvent%20vous%20aider%20de%20mani%C3%A8re%20significative%20dans%20les%20t%C3%A2ches%C2%A0p%C3%A9nibles%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/11636-69d23a9e/Article%20de%20blog%20%27Taylorization%20and%20Digitalization%20of%20Business%20Processes%3A%20Advantages%2C%20Disadvantages%20and%20Examples%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/11638-c40efc3e/Article%20de%20blog%20%27G%C3%A9rer%20la%20Transformation%20Digitale%20et%20D%C3%A9velopper%20un%20ERP%20Odoo%20avec%20des%20Processus%20Lean%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/13629-9d362f63/Article%20de%20blog%20%27Avantages%20et%20Limites%20de%20l%E2%80%99IA%20en%20Entreprise%3A%20Une%20%C3%A9p%C3%A9e%20%C3%A0%20double%20tranchant%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/19983-14c8d9d4/Article%20de%20blog%20%27La%20r%C3%A9silience%20num%C3%A9rique%20comme%20pilier%20de%20la%20p%C3%A9rennit%C3%A9%20des%20PME%20%3A%20pourquoi%20Odoo%20est%20un%20atout%20strat%C3%A9gique%27%20cover%20image.webp",
+   "https://www.darbtech.net/web/image/20551-d01b6331/1_QBzMX07sqsxC__JwQhvH5A.webp",
+   "https://www.darbtech.net/web/image/7150-a933bafb/industrial-designers-working-3d-model.jpg",
+   "https://www.darbtech.net/web/image/7191-904a6bf1/tulip-field-keukenhof-gardens-lisse-netherlands%20%282%29.jpg",
+   "https://www.darbtech.net/web/image/7216-0fb7ea93/399550472_367510165608191_5445947534457444139_n.jpg",
+   "https://www.darbtech.net/web/image/7623-dd769406/medium-shot-disabled-man-office.jpg",
+   "https://www.darbtech.net/web/image/7624-3d1fe515/businesswoman-using-tablet-analysis-graph-company-finance-s.jpg",
+   "https://www.darbtech.net/web/image/7625-e0437a78/standard-quality-control-concept-m.jpg",
+   "https://www.darbtech.net/web/image/7626-51ede443/22650940_6620119.jpg",
+   "https://www.darbtech.net/web/image/7643-67c7b8cf/global-business-internet-network-connection-iot-internet-things-business-intelligence-concept-busines-global-network-futuristic-technology-background-ai-generative.jpg",
+   "https://www.darbtech.net/web/image/8161-aba01e3a/MRP.jpg",
+   "https://www.darbtech.net/web/image/8162-8a085b8b/business-people-meeting.jpg",
+   "https://www.darbtech.net/web/image/8163-cbfe407e/6342161_286.jpg",
+   "https://www.darbtech.net/web/image/8164-59e8b726/26762021_2111.q707.030.F.m004.c5.smart%20industry%20isometric.jpg",
+   "https://www.darbtech.net/web/image/8165-2cf1fecb/lean-six-sigma.jpg",
+   "https://www.darbtech.net/web/image/8167-ae9be001/shutterstock_407008072-1280x720.jpg",
+   "https://www.darbtech.net/web/image/8170-c2a80b6e/4In_pillar-page_kaizen_feature-image-500x280.png",
+   "https://www.darbtech.net/web/image/8171-a8e554e0/1200x628-whyagile.jpg",
+   "https://www.darbtech.net/web/image/8172-36175679/digitalizzazione-articolo.png",
+   "https://www.darbtech.net/web/image/8173-359e0326/transformation_numerique_1.jpg",
+   "https://www.darbtech.net/web/image/8240-3710998d/ezgif-2-5c06449e6d.jpg",
+   "https://www.darbtech.net/web/image/8244-71f027da/ezgif-2-159d1f29e1.jpg",
+   "https://www.darbtech.net/web/image/8334-fd8800a5/pexels-photo-5922523.jpeg",
+   "https://www.darbtech.net/web/image/8335-52c27cb2/An%20illustration%20showcasing%20the%20five%20major%20challenges%20faced%20by%20small%20and%20medium-sized%20businesses%20%28SMBs%29%20and%20enterprises%20in%202024..jpg",
+   "https://www.darbtech.net/web/image/8336-04dd321f/Odoovscompetition.png",
+   "https://www.darbtech.net/web/image/8337-247c3d32/dedicatedvsintegrated.png",
+   "https://www.darbtech.net/web/image/8340-dd127b18/mangersofthefuturecut.png",
+   "https://www.darbtech.net/web/image/8341-0b238d74/bestvalueproposition.png",
+   "https://www.darbtech.net/web/image/8342-90de3392/mask_myths_600.jpg",
+   "https://www.darbtech.net/web/image/8343-868b9036/Remote-Work-Statistics-Navigating-the-New-Normal-2-1024x512.jpg",
+   "https://www.darbtech.net/web/image/8344-ad908852/shutterstock_1154457493.jpg",
+   "https://www.darbtech.net/web/image/8345-ace3c4ce/6-Steps-To-Effective-Organisational-Change-Management.jpg",
+   "https://www.darbtech.net/web/image/8346-1fc1fe05/inclusiveleadership.png",
+   "https://www.darbtech.net/web/image/8347-83dbce75/businesssustainability.png",
+   "https://www.darbtech.net/web/image/8349-fcf3c8e8/cybersecurity.png",
+   "https://www.darbtech.net/web/image/8350-77905ec0/hiringtalents.png",
+   "https://www.darbtech.net/web/image/8351-1f8d3084/worklifebalance.png",
+   "https://www.darbtech.net/web/image/8352-de20054d/open-innovation-cropped.jpg",
+   "https://www.darbtech.net/web/image/8939-b1ad5044/versatileodooworld.png",
+   "https://www.darbtech.net/web/image/8940-15e1bb6d/versatileodoo.png",
+   "https://www.darbtech.net/web/image/9407-afccba37/DALL%C2%B7E%202024-03-08%2018.07.37%20-%20Visualize%20a%20modern%20office%20environment%20filled%20with%20technology%20and%20innovation.%20In%20the%20foreground%2C%20a%20diverse%20group%20of%20professionals%20is%20gathered%20around%20a%20.jpg",
+   "https://www.darbtech.net/web/image/9418-86f401be/DALL%C2%B7E%202024-03-08%2018.52.48%20-%20Visualize%20a%20vibrant%20office%20space%20where%20a%20small%20to%20medium-sized%20business%20team%20is%20engaged%20in%20a%20digital%20assessment%20process.%20The%20scene%20includes%20diverse%20te.jpg",
+   "https://www.darbtech.net/web/image/9933-788a81b4/Business-Growth-1.jpg",
+   "https://www.darbtech.net/web/image/9938-f54d96a8/1347.jpg",
+   "https://www.darbtech.net/website_blog/static/src/img/cover_5.jpg"
+  ],
+  "generic blog author avatar": [
+   "https://www.darbtech.net/web/image/blog.post/18/author_avatar/Engagement%20in%20the%20digitization%20of%20the%20business%20process.?unique=20b4e48",
+   "https://www.darbtech.net/web/image/blog.post/18/author_avatar/Immersion%20dans%20la%20digitalisation%20du%20processus%20m%C3%A9tier.?unique=20b4e48",
+   "https://www.darbtech.net/web/image/blog.post/19/author_avatar/Implementation%20of%20a%20lead%20and%20commercial%20offer%20tracking%20tool%20in%20Odoo%20CRM.?unique=b3850c7",
+   "https://www.darbtech.net/web/image/blog.post/19/author_avatar/Mise%20en%20place%20d%27un%20outil%20de%20suivi%20des%20leads%20et%20offres%20commerciales?unique=b3850c7",
+   "https://www.darbtech.net/web/image/blog.post/56/author_avatar/Odoo%20:%20Le%20Champion%20de%20l%27ERP%20Rentable%20pour%20les%20PME%20Acc%C3%A9l%C3%A9rant%20la%20Croissance%20et%20la%20Comp%C3%A9titivit%C3%A9?unique=7ac3f0e",
+   "https://www.darbtech.net/web/image/blog.post/56/author_avatar/Odoo:%20The%20Cost-Effective%20ERP%20Champion%20for%20SMBs%20Accelerating%20Growth%20and%20Competitiveness?unique=7ac3f0e",
+   "https://www.darbtech.net/web/image/blog.post/57/author_avatar/Odoo%20:%20L%27ERP%20champion%20efficace%20pour%20les%20PME%20acc%C3%A9l%C3%A9rant%20leur%20croissance%20et%20comp%C3%A9titivit%C3%A9?unique=4d6cf28",
+   "https://www.darbtech.net/web/image/blog.post/57/author_avatar/Odoo:%20The%20Cost-Effective%20ERP%20Champion%20for%20SMBs%20Accelerating%20Growth%20and%20Competitiveness?unique=4d6cf28"
+  ],
+  "blog cover of an older post (only client cases + 12 latest kept); URL stays in blog.*.json cover_image.src": [
+   "https://www.darbtech.net/web/image/7623-dd769406/medium-shot-disabled-man-office.jpg",
+   "https://www.darbtech.net/web/image/7624-3d1fe515/businesswoman-using-tablet-analysis-graph-company-finance-s.jpg",
+   "https://www.darbtech.net/web/image/7625-e0437a78/standard-quality-control-concept-m.jpg",
+   "https://www.darbtech.net/web/image/7626-51ede443/22650940_6620119.jpg",
+   "https://www.darbtech.net/web/image/8161-aba01e3a/MRP.jpg",
+   "https://www.darbtech.net/web/image/8162-8a085b8b/business-people-meeting.jpg",
+   "https://www.darbtech.net/web/image/8163-cbfe407e/6342161_286.jpg",
+   "https://www.darbtech.net/web/image/8164-59e8b726/26762021_2111.q707.030.F.m004.c5.smart%20industry%20isometric.jpg",
+   "https://www.darbtech.net/web/image/8165-2cf1fecb/lean-six-sigma.jpg",
+   "https://www.darbtech.net/web/image/8167-ae9be001/shutterstock_407008072-1280x720.jpg",
+   "https://www.darbtech.net/web/image/8170-c2a80b6e/4In_pillar-page_kaizen_feature-image-500x280.png",
+   "https://www.darbtech.net/web/image/8171-a8e554e0/1200x628-whyagile.jpg",
+   "https://www.darbtech.net/web/image/8172-36175679/digitalizzazione-articolo.png",
+   "https://www.darbtech.net/web/image/8173-359e0326/transformation_numerique_1.jpg",
+   "https://www.darbtech.net/web/image/8240-3710998d/ezgif-2-5c06449e6d.jpg",
+   "https://www.darbtech.net/web/image/8244-71f027da/ezgif-2-159d1f29e1.jpg",
+   "https://www.darbtech.net/web/image/8335-52c27cb2/An%20illustration%20showcasing%20the%20five%20major%20challenges%20faced%20by%20small%20and%20medium-sized%20businesses%20%28SMBs%29%20and%20enterprises%20in%202024..jpg",
+   "https://www.darbtech.net/web/image/8336-04dd321f/Odoovscompetition.png",
+   "https://www.darbtech.net/web/image/8337-247c3d32/dedicatedvsintegrated.png",
+   "https://www.darbtech.net/web/image/8340-dd127b18/mangersofthefuturecut.png",
+   "https://www.darbtech.net/web/image/8341-0b238d74/bestvalueproposition.png",
+   "https://www.darbtech.net/web/image/8342-90de3392/mask_myths_600.jpg",
+   "https://www.darbtech.net/web/image/8343-868b9036/Remote-Work-Statistics-Navigating-the-New-Normal-2-1024x512.jpg",
+   "https://www.darbtech.net/web/image/8344-ad908852/shutterstock_1154457493.jpg",
+   "https://www.darbtech.net/web/image/8345-ace3c4ce/6-Steps-To-Effective-Organisational-Change-Management.jpg",
+   "https://www.darbtech.net/web/image/8346-1fc1fe05/inclusiveleadership.png",
+   "https://www.darbtech.net/web/image/8347-83dbce75/businesssustainability.png",
+   "https://www.darbtech.net/web/image/8349-fcf3c8e8/cybersecurity.png",
+   "https://www.darbtech.net/web/image/8350-77905ec0/hiringtalents.png",
+   "https://www.darbtech.net/web/image/8351-1f8d3084/worklifebalance.png",
+   "https://www.darbtech.net/web/image/8352-de20054d/open-innovation-cropped.jpg",
+   "https://www.darbtech.net/web/image/8939-b1ad5044/versatileodooworld.png",
+   "https://www.darbtech.net/web/image/8940-15e1bb6d/versatileodoo.png",
+   "https://www.darbtech.net/web/image/9407-afccba37/DALL%C2%B7E%202024-03-08%2018.07.37%20-%20Visualize%20a%20modern%20office%20environment%20filled%20with%20technology%20and%20innovation.%20In%20the%20foreground%2C%20a%20diverse%20group%20of%20professionals%20is%20gathered%20around%20a%20.jpg",
+   "https://www.darbtech.net/web/image/9418-86f401be/DALL%C2%B7E%202024-03-08%2018.52.48%20-%20Visualize%20a%20vibrant%20office%20space%20where%20a%20small%20to%20medium-sized%20business%20team%20is%20engaged%20in%20a%20digital%20assessment%20process.%20The%20scene%20includes%20diverse%20te.jpg",
+   "https://www.darbtech.net/web/image/9933-788a81b4/Business-Growth-1.jpg"
+  ]
+ }
+}

@@ -1,0 +1,149 @@
+LANG en-US | TITLE Engagement in the digitization of the business process. | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('description', 'ERP ODO')
+META ('og:title', 'Engagement in the digitization of the business process.')
+META ('og:image', 'https://www.darbtech.net/web/image/7191-904a6bf1/tulip-field-keukenhof-gardens-lisse-netherlands%20%282%29.jpg')
+META ('og:description', 'ERP ODO')
+META ('link-alternate', 'en https://www.darbtech.net/en/blog/client-cases-4/engagement-in-the-digitization-of-the-business-process-18')
+META ('link-alternate', 'fr https://www.darbtech.net/blog/cas-clients-4/immersion-dans-la-digitalisation-du-processus-metier-18')
+META ('link-alternate', 'x-default https://www.darbtech.net/blog/cas-clients-4/immersion-dans-la-digitalisation-du-processus-metier-18')
+META ('link-canonical', ' https://www.darbtech.net/en/blog/client-cases-4/engagement-in-the-digitization-of-the-business-process-18')
+HEADINGS:
+   ('h1', 'Engagement in the digitization of the business process.')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/blog/client-cases-4/engagement-in-the-digitization-of-the-business-process-18', '')
+   ('/blog/cas-clients-4/immersion-dans-la-digitalisation-du-processus-metier-18', '')
+   ('/en/contactus', 'Contact us')
+   ('/en/blog', 'All Blogs')
+   ('/en/blog/client-cases-4', 'Client Cases')
+   ('#', '')
+   ('/en/blog/tech-odoo-3', 'Tech & Odoo')
+   ('/en/blog/actualites-5', 'Actualités')
+   ('/en/blog/success-stories-6', 'Success Stories')
+   ('/en/blog/business-management-1', 'Business Management')
+   ('/en/blog/client-cases-4/foolproof-method-to-identify-and-detect-ai-implementable-topics-for-smes-and-businesses-in-any-department-roi-and-concrete-use-cases-70', 'Foolproof Method to Identify and Detect AI-Implementable Top')
+   ('/en/blog/client-cases-4/foolproof-method-to-identify-and-detect-ai-implementable-topics-for-smes-and-businesses-in-any-department-roi-and-concrete-use-cases-70', '')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/blog.post/18/author_avatar/Engagement%20in%20the%20digitization%20of%20the%20business%20process.?unique=20b4e', 'Engagement in the digitization of the business process.')
+   ('/web/image/blog.post/18/author_avatar/Engagement%20in%20the%20digitization%20of%20the%20business%20process.?unique=20b4e', 'Engagement in the digitization of the business process.')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ Engagement in the digitization of the business process. | DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+---section ---
+All Blogs
+ Client Cases
+Engagement in the digitization of the business process.
+[H1] Engagement in the digitization of the business process.
+ERP ODO
+ January 28, 2024
+ by
+ DarbTech Team
+---section container pt-4 pb-5 ---
+PUTHOD, a company based in the Pays de Savoie region specializing in the landscaping services sector, has approached us to digitize its business processes and eliminate the manual completion and input of forms into the computer system. 
+Issue : 
+- Multiple mobile teams complete paper forms on a daily basis.
+- The back-office consolidates all the paper forms to generate site reports.
+- There is a significant risk of missing crucial information.
+Solution : 
+- Implementation of standard Odoo modules.
+- Development of specific modules to align with business processes.
+- Consolidation of all relevant information from a landscaping project into a single tool accessible to all personnel, resulting in increased productivity and efficiency!
+in Client Cases
+ DarbTech Team
+ January 28, 2024
+Share this post
+Our blogs
+ Tech & Odoo
+ Client Cases
+ Actualités
+ Success Stories
+ Business Management
+---section ---
+ Read Next
+Foolproof Method to Identify and Detect AI-Implementable Topics for SMEs and Businesses in Any Department: ROI and Concrete Use Cases
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+

@@ -1,0 +1,140 @@
+LANG fr-FR | TITLE PrqDarbOdoo | DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'PrqDarbOdoo | DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=a054b97')
+META ('link-alternate', 'en https://www.darbtech.net/en/prqdarbodoo')
+META ('link-alternate', 'fr https://www.darbtech.net/prqdarbodoo')
+META ('link-alternate', 'x-default https://www.darbtech.net/prqdarbodoo')
+META ('link-canonical', ' https://www.darbtech.net/prqdarbodoo')
+HEADINGS:
+   ('h2', 'Pourquoi choisir DarbTech ?')
+   ('h1', 'Pourquoi choisir Odoo ?')
+   ('h4', 'Rejoignez-nous!')
+LINKS:
+   ('#wrap', 'Se rendre au contenu')
+   ('/', '')
+   ('/', 'Accueil')
+   ('#', 'Services')
+   ('/devops', 'DevOps')
+   ('/integrateurdelogiciel', 'Intégrateur de Logiciel')
+   ('/blog/cas-client-4', 'Cas Clients')
+   ('/blog', 'Blog')
+   ('/aboutus', 'Notre Equipe')
+   ('/jobs', 'Postes')
+   ('/shop/cart', '0')
+   ('/en/prqdarbodoo', '')
+   ('/prqdarbodoo', '')
+   ('/contactus', 'Contactez-nous')
+   ('/contactus', 'ici')
+   ('/services', 'Nos services')
+   ('/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bA\u200b \u200bp\u200bro\u200bp\u200bos\u200b \u200bde \u200bn\u200bo\u200bus')
+   ('/blog/cas-clients-4', 'Cas Clients')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Nous Choisir\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bPourquoi Choisir Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website.s_picture_default_image', '')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ PrqDarbOdoo | DarbTech
+ Se rendre au contenu
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+ 0
+ Accueil
+ Services
+ DevOps
+ Intégrateur de Logiciel
+ Cas Clients
+ Blog
+ Notre Equipe
+ Postes
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contactez-nous
+---section s_picture overflow-hidden o_colored_level pt40 o_cc o_cc1 pb---
+[H2] Pourquoi choisir DarbTech ?
+Nous vous accompagnons durant tout le processus de mise en place de l'outil :
+---section s_text_block pt40 o_colored_level o_half_screen_height pb0---
+1. Etude et analyse de votre activité, de vos procédures de travail actuelles au sein de chaque service de votre entreprise, recherche des interconnections entre services et des interconnections avec les logiciels métiers spécifiques 
+2. Adaptation et ajustement de vos procédures métiers à la philosophie de l'outil ERP
+3. Implémentation des modules standards existants et développement de modules spécifiques pour ajuster votre outil à vos méthodes de travail
+4. Formation et accompagnement de l'ensemble des équipes à la prise en main de l'outil et à l'utilisation quotidienne
+5. Maintenance de votre nouveau logiciel pour qu'il s'adapte à vos nouvelles activités ou à vos nouvelles méthodes de travail
+---section s_title pb40 o_colored_level pt16 o_cc o_cc4---
+[H1] 
+ Pourquoi choisir Odoo ? 
+---section s_text_block pt40 o_colored_level pb0---
+Choisir Odoo pour la gestion de votre entreprise présente de nombreux avantages grâce à ses caractéristiques uniques et ses fonctionnalités avancées.
+Intégration Complète :
+Odoo offre une intégration complète des fonctions CRM (Customer Relationship Management) et ERP (Enterprise Resource Planning) au sein d'une seule plateforme. Cette consolidation élimine les silos d'information et permet une gestion plus cohérente et efficiente de l'ensemble de votre entreprise.
+Accessibilité en Ligne :
+En tant qu'outil basé sur le web, Odoo offre une accessibilité inégalée. Vous pouvez accéder à vos données et gérer votre entreprise de n'importe où dans le monde, favorisant la flexibilité et la mobilité.
+Interface Utilisateur Intuitive :
+L'interface utilisateur d'Odoo est conçue pour être simple et intuitive. Cela facilite l'adoption par les utilisateurs et réduit le temps nécessaire à la formation, assurant ainsi une transition en douceur vers l'utilisation de la plateforme.
+Interopérabilité Avancée :
+Odoo est conçu pour s'intégrer facilement avec d'autres logiciels métiers déjà en place au sein de votre entreprise. Cette capacité d'interopérabilité garantit une transition sans heurts et une utilisation harmonieuse avec vos systèmes existants.
+Rapidité de Déploiement et Adaptabilité :
+Odoo est rapidement déployable et adaptable aux besoins spécifiques de votre entreprise. Grâce à un éditeur unique mettant à disposition le code source, vous avez la possibilité de personnaliser les modules pour répondre précisément à vos exigences.
+Source Ouverte et Communauté Mondiale :
+La source ouverte d'Odoo signifie que vous avez accès au code source de l'ensemble des modules. Cela offre une transparence totale et la possibilité de personnaliser chaque aspect du logiciel. De plus, la communauté mondiale de développeurs contribue activement à l'amélioration continue des fonctionnalités et à la création de nouveaux modules.
+Support de la Communauté et Mises à Jour Régulières :
+La communauté active d'utilisateurs et de développeurs Odoo assure un support continu et des mises à jour régulières. Cela garantit que votre logiciel reste à jour avec les dernières avancées technologiques et répond aux besoins changeants de votre entreprise.
+En résumé, choisir Odoo va au-delà d'adopter un logiciel de gestion. C'est opter pour une solution complète, flexible et évolutive, soutenue par une communauté mondiale, pour propulser la croissance et l'efficacité de votre entreprise. 
+---section s_text_block o_colored_level pb8 o_cc o_cc1 pt32---
+[H4] Rejoignez-nous!
+Contactez-nous ici et faites la différence :)
+---section s_text_block pb0 pt48---
+Explorateur
+Accueil
+Nos services
+A propos de nous
+Blog
+Interventions
+Cas Clients
+Pourquoi Nous Choisir
+Pourquoi Choisir Odoo
+CGU
+Nous suivre
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tél. : +33 1 88 33 41 64
+Darbtech 
+Rabat-Maroc 
+Résidence Oum Kalthoum, Boulevard Hassan II - RABAT AGDAL
+Tél. : +212 770 86 2295
+ Copyright © DarbTech Labs
+ Généré par 
+ - 
+ Le #1 Open Source eCommerce
+

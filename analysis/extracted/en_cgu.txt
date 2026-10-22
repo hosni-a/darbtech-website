@@ -1,0 +1,181 @@
+LANG en-US | TITLE Mentions légales - CGU DarbTech
+META ('viewport', 'width=device-width, initial-scale=1')
+META ('generator', 'Odoo')
+META ('og:title', 'Mentions légales - CGU DarbTech')
+META ('og:image', 'https://www.darbtech.net/web/image/website/1/logo?unique=af6c293')
+META ('link-alternate', 'en https://www.darbtech.net/en/cgu')
+META ('link-alternate', 'fr https://www.darbtech.net/cgu')
+META ('link-alternate', 'x-default https://www.darbtech.net/cgu')
+META ('link-canonical', ' https://www.darbtech.net/en/cgu')
+HEADINGS:
+   ('h1', 'Legal Notice - Terms of Use')
+LINKS:
+   ('#wrap', 'Skip to Content')
+   ('/en', '')
+   ('/en', 'Home')
+   ('#', 'Services')
+   ('/en/devops', 'Devops')
+   ('/en/integrateurdelogiciel', 'Software Integrator')
+   ('/en/blog/cas-client-4', 'Client Cases')
+   ('/en/blog', 'Blog')
+   ('/en/aboutus', 'Our Team')
+   ('/en/jobs', 'Jobs')
+   ('/en/shop/cart', '0')
+   ('/en/cgu', '')
+   ('/cgu', '')
+   ('/en/contactus', 'Contact us')
+   ('https://darbtech.net', '\u200b')
+   ('https://Darbtech.net', 'Darbtech.net')
+   ('https://bonjour@darbtech.net', 'bonjour@darbtech.net')
+   ('/en/services', 'Nos services')
+   ('/en/aboutus', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bAbout Us')
+   ('/en/blog/cas-clients-4', 'Cas Clients')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Us\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/prqdarbodoo', '\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200bWhy Choose Odoo\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b')
+   ('/en/cgu', 'CGU')
+   ('https://www.linkedin.com/company/darbtech/?originalSubdomain=fr', 'Linkedin')
+   ('http://www.odoo.com?utm_source=db&utm_medium=website', '')
+   ('http://www.odoo.com/app/ecommerce?utm_source=db&utm_medium=website', 'Open Source eCommerce')
+IMGS:
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/image/website/1/logo/DarbTech?unique=a054b97', 'DarbTech')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/us.png?height=25', 'English (US)')
+   ('/base/static/img/country_flags/fr.png?height=25', ' Français')
+   ('/web/static/img/odoo_logo_tiny.png', 'Odoo')
+FORMS:
+TEXT:
+
+ Mentions légales - CGU DarbTech
+ Skip to Content
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
+ 0
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+ 0
+ Home
+ Services
+ Devops
+ Software Integrator
+ Client Cases
+ Blog
+ Our Team
+ Jobs
++33 1 88 33 41 64
+---section s_text_block o_colored_level oe_unremovable oe_unmovable---
+ Contact us
+---section s_title pt56 o_colored_level pb0---
+[H1] Legal Notice - Terms of Use
+READ CAREFULLY BEFORE USING THE SITE  
+
+---section s_text_block pt40 pb40 o_colored_level---
+Subject of the Terms of Service (ToS)
+Les Conditions Générales d’Utilisation, (ci-après les « CGU ») ont pour objet de définir les modalités dans lesquelles la société DarbTech Labs SAS (ci-après « Nous »), SAS au capital de 10 000 euros, 850 857 046 RCS PARIS (N° de TVA intracommunautaire : FR 48 850 857 046), ayant son siège social au 36 rue Boussingault 75013 Paris, met à votre disposition le site web accessible à l’adresse  
+Article 1: Description and Purpose of the Site
+Darbtech.net is a showcase site for DarbTech Labs presenting the products and services of the group.
+You may, if you wish, receive our newsletters to inform you about news and services offered. All features of the Site, including the main ones described in this article and subject to evolution over time, are referred to herein as "the Service."
+
+Article 2: Access to the Site and Acceptance of the Terms of Use
+By accessing the Site and using it, you acknowledge meeting the conditions to qualify as a User as defined in Article 3. You enter into a contractual agreement with us, hereinafter referred to as the "Agreement," governed by these ToS. You agree to use the Site and the Service fairly and in compliance with legal and regulatory provisions at all times. Failure to assert a breach of any obligation in these ToS shall not be interpreted as a waiver of the obligation in question or as an amendment to the Agreement, and shall not prevent us from relying on it in the future. We may modify the ToS at any time and without notice. Therefore, you are invited to regularly consult their latest updated version, available to all and accessible permanently on the homepage of the Site by clicking on the hyperlink: "Terms of Use" at the bottom of the page.
+
+
+
+Article 3: Conditions of Access to the Service
+3.1. – User Status:
+To become a User, you must have accepted these ToS without any reservation.
+Article 4: User Responsibility
+You are solely responsible for the use you make of the Service and the Site, as well as for the use of the information and data it contains.
+All hardware and software necessary for accessing the Site and using the Service are solely your responsibility. You must take appropriate measures to protect your own data and/or software from contamination by potential viruses.
+Article 5: Our Responsibility
+We are not responsible for the content of third-party websites to which hypertext links on the Site or accessible via the Service may lead.
+Due to the particular nature of the Internet network, access to the Site may be interrupted or restricted at any time due to a cause beyond our control. In this case, our liability cannot be sought.
+Our liability cannot be engaged in the event of interrupted access to the Site due to maintenance operations, updates, technical improvements, or to evolve its presentation, provided that these interruptions are notified and do not exceed five (5) working days.
+You are also informed that e-commerce services accessible via the Site are provided by third-party partners and not by us. Consequently, these services are accessible via the Site or the Service only through hyperlinks leading directly or indirectly to the sites of these providers.
+Therefore, these services are governed exclusively by the general and/or specific terms of sale and/or use of the respective sites, and the only contractual relationship that may arise from using these sites is with the provider(s) operating such sites. Consequently, we cannot be held responsible, in any way, for access to these sites and/or their use by you or the consequences of these actions, particularly concerning the acquisition of goods or services via these sites. To the extent permitted by applicable law and to the extent that we may be held liable for damage not covered in this article or the ToS, our liability will be limited to direct, certain, actual, and established damages
+Article 6: Intellectual Property
+In accordance with intellectual property rules, we own the Site in its technical, graphic, textual, ergonomic, navigational, or other components.
+The Service is provided through software, algorithms, and databases designed and/or developed and/or used by us, which belong to us or on which we have rights. The content posted by us also belongs to us. The use of the Site and the Service does not grant Users any rights to any of the elements mentioned in this article.
+By accepting the ToS, you acknowledge our intellectual property rights and agree to respect them.
+Site Usage License:
+We grant you a non-exclusive, personal, and non-transferable license authorizing you to use the Site and the Service, as well as the data they contain, for your strictly personal use, in accordance with the ToS and for the sole purpose stipulated herein (hereinafter referred to as "the License").
+You acknowledge, therefore, that any other use of the Site or the Service is excluded from the scope of this License and can only be carried out after obtaining our prior written authorization.
+Article 7: Privacy Policy
+7.1 – Collection of Personal Data:
+All personal data collected during the use of the Site and the Service are collected legally and fairly.
+Information collected directly from you when completing Site forms is recorded in the database managed by DarbTech [1] and may be subject to automated processing for the purpose of sending you news and offers, providing content tailored to your profile and preferences, and managing our relationship with you. Information marked with an asterisk is mandatory.
+Otherwise, DarbTech will not be able to respond to your request.
+Pour exercer vos droits, merci d’adresser votre courrier RAR à l’adresse suivante DarbTech Labs SAS, 122 Av. Daumesnil, 75012 PARIS ou à l’adresse électronique suivante dpo@darbtech.net
+In accordance with Article 6-II of the Law of June 21, 2004, on Confidence in the Digital Economy, data capable of enabling your identification may be communicated to the judicial authority when required.
+We take necessary measures to ensure that your personal data collected via the Site are not lost, diverted, accessed, modified, or disclosed by unauthorized third parties.
+
+7.2 Cookie Management: 
+The Site may contain cookies. Cookies are used to facilitate your navigation and customize your access to the Service. 
+In particular:
+Regarding cookies and trackers strictly necessary for the provision of the service expressly requested by the user (session identifier cookies, for the duration of a session, or persistent cookies limited to a few hours; authentication cookies
+session cookies created by a media player or persistent cookies for user interface customization), they are harmless to your terminal, anonymous, and are in no way used to collect personal data, but only for managing connections.
+Regarding cookies requiring prior information and consent: they may be:
+Site performance cookies (which allow us to optimize our website and detect any technical issues); they also allow us to collect information about how you use the site and make statistics; Customization cookies allowing us to remember your choices and preferences to improve your user experience on our site
+Social media cookies generated by social media sharing buttons.
+They are implemented only after receiving your free consent (by clicking on the button in the banner when necessary).
+Article 8: Duration and Termination - Unsubscribing
+8.1 – Duration of the Agreement:
+The Agreement is concluded for an indefinite period from your acceptance of the ToS, evidenced by the validation of your registration.
+8.2 – Termination of the Agreement:
+We may terminate this Agreement automatically and without prior notice in the event of a serious or repeated violation of your obligations regarding compliance with applicable law, regardless of any damages we may claim.
+In the event that you provide false, inaccurate, outdated, or incomplete data, we may suspend or terminate the Agreement. 
+In the event of non-compliance with the ToS, if, after a period of eight (8) calendar days from our notification of the observed breach, you have not ended this breach or it has not been remedied, we may terminate the Agreement immediately and automatically, regardless of any damages we may claim.
+8.3 – Service Unsubscription:
+You can unsubscribe from the Service at any time by contacting our team at the following email address:
+ bonjour@darbtech.net
+Article 9: Assignment of the Agreement
+We may assign or otherwise transfer all or part of the Agreement to a third party, located in France or within the European Union, especially in the event of the transfer of the operation of the Site and the Service to such a third party. You declare that you are aware of this possibility and accept it already without limitation or reservation, regardless of the identity of the said third party.
+Article 10: Interpretation of these - General Provisions
+The ToS express the entire agreement between the parties regarding their subject matter.
+In the event that any provision of the Agreement is declared illegal, void, or unenforceable by a court or authority of any kind, the validity of the other provisions of the Agreement shall not be affected.
+The titles assigned to the articles, paragraphs, subparagraphs, and annexes of the Agreement are for the convenience of reading and cannot be invoked for its interpretation. Unless otherwise indicated, all references made to the Agreement in articles, paragraphs, subparagraphs, and annexes are references to the articles, paragraphs, subparagraphs, and annexes of the Agreement.
+Article 11: Force Majeure
+Neither Party shall be held liable to the other Party for any delay or failure in the total or partial execution of its obligations if such failure results from any force majeure event characterized by the jurisprudence of the Court of Cassation.
+Article 12: Applicable Law and Competent Jurisdiction
+The conclusion, validity, interpretation, execution, termination of the Agreement, and their possible consequences are governed by French law.
+Cconformément à la Loi, tout conflit relatif à la formation, la validité, l’interprétation, l’application, la résiliation de l’accord et leurs conséquences éventuelles, ou en lien avec l’utilisation du site, sera soumis à la compétence des tribunaux de paris, y compris en cas d’appel en garantie ou de multiples défendeurs, ainsi que pour toute procédure, qu’elle soit au fond, en référé ou sur requête.
+---section s_text_block pb0 pt48---
+Explorer
+Home
+Nos services
+About Us
+Blog
+Interventions
+Cas Clients
+Why Choose Us
+Why Choose Odoo
+CGU
+Follow Us
+Linkedin
+
+Darbtech Labs
+Paris-France 
+122 Av. Daumesnil, 75012 PARIS 
+Tel.: +33 1 88 33 41 64
+Darbtech 
+Rabat-Morocco 
+Residence Oum Kalthoum, Boulevard Hassan II 10120 
+Tel.: +212 770 86 2295
+ Copyright © DarbTech Labs
+ Powered by 
+ - 
+ The #1 Open Source eCommerce
+
