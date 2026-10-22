@@ -494,8 +494,10 @@ def document(c, title, description, body, trail=None, extra_jsonld=None, noindex
     base_fix = ""
     if c.page_id == "404":
         # On a web server the 404 page is served at arbitrary depths: pin relative URLs to its real folder.
-        base_fix = ('<script>if(/^https?:$/.test(location.protocol))document.write(\'<base href="/'
-                    + ("en/" if c.lang == "en" else "") + '">\')</script>')
+        # GitHub Pages project sites live under /<repo>/, so keep that first path segment as the root.
+        base_fix = ('<script>if(/^https?:$/.test(location.protocol)){var r="/",s=location.pathname.split("/")[1];'
+                    'if(/\\.github\\.io$/.test(location.hostname)&&s)r="/"+s+"/";'
+                    'document.write(\'<base href="\'+r+\'' + ("en/" if c.lang == "en" else "") + '">\')}</script>')
     return f"""<!doctype html>
 <html lang="{c.lang}">
 <head>
